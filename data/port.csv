@@ -1,0 +1,17 @@
+port_id,port_name,berth_id,berth_type,maximum_draft_m,maximum_LOA_m,maximum_beam_m,handling_rate_tpd,port_congestion_base_days,source_type
+INPRT,Paradip Port,INPRT_CQ1,Coal Berth 1,14.5,240.0,32.5,35000,2.5,Official
+INPRT,Paradip Port,INPRT_IOB,Iron Ore Berth,16.5,260.0,35.0,45000,2.0,Official
+INPRT,Paradip Port,INPRT_MPB,Multi-Purpose Berth,12.5,200.0,32.5,20000,3.0,Official
+INVTZ,Visakhapatnam Port,INVTZ_OHOB,Outer Harbour Ore Berth,18.1,300.0,48.0,60000,1.5,Official
+INVTZ,Visakhapatnam Port,INVTZ_VGCB,Vizag General Cargo Berth,16.0,255.0,36.0,38000,2.2,Official
+INVTZ,Visakhapatnam Port,INVTZ_EQ8,Inner Harbour East Quay 8,14.0,235.0,34.0,25000,2.8,Official
+INKRI,Krishnapatnam Port,INKRI_CB1,Deep Draft Coal Berth 1,18.5,310.0,50.0,55000,1.8,Official
+INKRI,Krishnapatnam Port,INKRI_GB2,General Dry Bulk Berth 2,15.0,245.0,38.0,30000,2.0,Official
+INENR,Kamarajar Port (Ennore),INENR_CB1,TNEB Coal Berth 1,15.5,250.0,35.0,32000,2.5,Official
+INENR,Kamarajar Port (Ennore),INENR_MCB,Multi-Cargo Bulk Berth,14.0,230.0,33.5,22000,3.2,Official
+INDMA,Dhamra Port,INDMA_BB1,Deep Water Bulk Berth 1,18.0,300.0,48.0,58000,1.6,Official
+INDMA,Dhamra Port,INDMA_LS2,Limestone/Fert Berth 2,15.5,250.0,39.0,28000,2.1,Official
+INHAL,Haldia Dock Complex,INHAL_HB4,Riverine Bulk Berth 4,9.8,195.0,31.0,18000,4.0,Official
+INHAL,Haldia Dock Complex,INHAL_HB8,Multi-Bulk Berth 8,10.5,205.0,31.5,20000,3.8,Official
+INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,North Cargo Berth 1,14.2,235.0,32.5,27000,2.4,Official
+INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_CJ2,Coal Jetty 2,12.8,210.0,32.5,23000,2.9,Official

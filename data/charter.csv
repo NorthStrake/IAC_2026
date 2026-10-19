@@ -1,0 +1,973 @@
+observation_id,route_id,origin_port,destination_port_id,destination_port,berth_id,distance_nm,vessel_id,vessel_type,observation_month,cargo_type,cargo_quantity_tonnes,estimated_voyage_months,charter_rate_usd_per_month,freight_rate_usd_per_tonne,port_compatible,fixture_status,missing_value_flag,source_type
+OBS_0001,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_013,Supramax,2020-01,Thermal Coal,52857,0.35,397828.81,5.43,True,Fixed,False,Fixture Report
+OBS_0002,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_027,Panamax,2020-01,Thermal Coal,77023,0.39,459066.99,4.94,True,Fixed,False,Fixture Report
+OBS_0003,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_038,Capesize,2020-01,Coking Coal,175779,0.59,715147.11,4.83,True,Fixed,False,Fixture Report
+OBS_0004,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_037,Capesize,2020-01,Coking Coal,180245,0.56,778717.45,4.54,True,Fixed,False,Fixture Report
+OBS_0005,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_040,Capesize,2020-01,Thermal Coal,173265,0.51,764565.16,4.33,True,Fixed,False,Fixture Report
+OBS_0006,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_033,Capesize,2020-01,Iron Ore,168981,0.49,788002.95,4.63,True,Fixed,False,Fixture Report
+OBS_0007,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_035,Capesize,2020-01,Iron Ore,185619,0.49,720190.67,3.88,True,Fixed,False,Fixture Report
+OBS_0008,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_009,Handysize,2020-01,Rock Phosphate / Fertilizer,34614,0.4,267235.51,7.0,True,Fixed,False,Fixture Report
+OBS_0009,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_018,Supramax,2020-01,Thermal Coal,55187,0.32,378537.22,4.33,True,Fixed,False,Fixture Report
+OBS_0010,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_009,Handysize,2020-01,Thermal Coal,35184,0.29,270829.81,5.07,True,Fixed,False,Fixture Report
+OBS_0011,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_030,Panamax,2020-01,Coastal Thermal Coal,76997,0.19,434068.47,2.25,True,Fixed,False,Fixture Report
+OBS_0012,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_021,Supramax,2020-01,Gypsum / Limestone,50372,0.36,371363.54,5.83,True,Fixed,False,Fixture Report
+OBS_0013,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_016,Supramax,2020-02,Thermal Coal,51190,0.34,386873.16,5.27,True,Fixed,False,Fixture Report
+OBS_0014,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_026,Panamax,2020-02,Thermal Coal,72228,0.38,450408.37,4.73,True,Fixed,False,Fixture Report
+OBS_0015,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_035,Capesize,2020-02,Coking Coal,182805,0.58,756652.14,4.84,True,Fixed,False,Fixture Report
+OBS_0016,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_035,Capesize,2020-02,Coking Coal,182982,0.57,,,True,Fixed,False,Fixture Report
+OBS_0017,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_037,Capesize,2020-02,Thermal Coal,180328,0.5,843308.0,4.3,True,Fixed,False,Fixture Report
+OBS_0018,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_037,Capesize,2020-02,Iron Ore,191108,0.48,829817.69,3.86,True,Fixed,False,Fixture Report
+OBS_0019,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_034,Capesize,2020-02,Iron Ore,174105,0.48,761570.67,4.01,True,Fixed,False,Fixture Report
+OBS_0020,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_008,Handysize,2020-02,Rock Phosphate / Fertilizer,28231,0.4,281751.98,8.48,True,Fixed,False,Fixture Report
+OBS_0021,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_016,Supramax,2020-02,Thermal Coal,50084,0.33,373855.5,5.03,True,Fixed,False,Fixture Report
+OBS_0022,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_003,Handysize,2020-02,Thermal Coal,28595,0.3,297729.41,7.16,True,Fixed,False,Fixture Report
+OBS_0023,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_028,Panamax,2020-02,Coastal Thermal Coal,70953,0.19,458409.51,2.71,True,Fixed,False,Fixture Report
+OBS_0024,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_022,Supramax,2020-02,Gypsum / Limestone,56316,0.35,374972.83,4.65,True,Fixed,False,Fixture Report
+OBS_0025,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_020,Supramax,2020-03,Thermal Coal,50744,0.35,377329.5,5.64,True,Fixed,False,Fixture Report
+OBS_0026,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_031,Panamax,2020-03,Thermal Coal,78570,0.38,501460.32,4.75,True,Fixed,False,Fixture Report
+OBS_0027,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_035,Capesize,2020-03,Coking Coal,186874,0.58,831191.82,5.05,True,Fixed,False,Fixture Report
+OBS_0028,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_039,Capesize,2020-03,Coking Coal,188672,0.56,833767.52,4.55,True,Fixed,False,Fixture Report
+OBS_0029,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_040,Capesize,2020-03,Thermal Coal,167572,0.51,764640.13,4.61,True,Fixed,False,Fixture Report
+OBS_0030,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_036,Capesize,2020-03,Iron Ore,162849,0.5,776958.03,5.11,True,Fixed,False,Fixture Report
+OBS_0031,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_037,Capesize,2020-03,Iron Ore,184202,0.49,771817.33,3.96,True,Fixed,False,Fixture Report
+OBS_0032,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_010,Handysize,2020-03,Rock Phosphate / Fertilizer,33430,0.4,297483.66,7.57,True,Fixed,False,Fixture Report
+OBS_0033,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_011,Supramax,2020-03,Thermal Coal,52902,0.33,394169.24,4.89,True,Fixed,False,Fixture Report
+OBS_0034,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_001,Handysize,2020-03,Thermal Coal,33431,0.29,313663.24,5.76,True,Fixed,False,Fixture Report
+OBS_0035,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_029,Panamax,2020-03,Coastal Thermal Coal,75885,0.19,513795.41,2.45,True,Fixed,False,Fixture Report
+OBS_0036,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_014,Supramax,2020-03,Gypsum / Limestone,52426,0.36,377981.8,5.92,True,Fixed,False,Fixture Report
+OBS_0037,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_018,Supramax,2020-04,Thermal Coal,54109,0.34,416470.6,4.98,True,Fixed,False,Fixture Report
+OBS_0038,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_031,Panamax,2020-04,Thermal Coal,77277,0.38,508918.67,4.81,True,Fixed,False,Fixture Report
+OBS_0039,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_036,Capesize,2020-04,Coking Coal,170708,0.6,771200.88,5.74,True,Fixed,False,Fixture Report
+OBS_0040,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_040,Capesize,2020-04,Coking Coal,170571,0.56,775279.99,5.03,True,Fixed,False,Fixture Report
+OBS_0041,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_039,Capesize,2020-04,Thermal Coal,191880,0.5,824769.18,3.95,True,Fixed,False,Fixture Report
+OBS_0042,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_034,Capesize,2020-04,Iron Ore,174404,0.48,770178.16,4.0,True,Fixed,False,Fixture Report
+OBS_0043,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_036,Capesize,2020-04,Iron Ore,165726,0.51,795694.26,5.07,True,Fixed,False,Fixture Report
+OBS_0044,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_003,Handysize,2020-04,Rock Phosphate / Fertilizer,29917,0.41,311966.13,9.63,True,Fixed,False,Fixture Report
+OBS_0045,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_013,Supramax,2020-04,Thermal Coal,54620,0.33,399942.05,5.09,True,Fixed,False,Fixture Report
+OBS_0046,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_008,Handysize,2020-04,Thermal Coal,27215,0.29,314753.54,6.84,True,Fixed,False,Fixture Report
+OBS_0047,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_025,Panamax,2020-04,Coastal Thermal Coal,75746,0.19,498949.32,2.39,True,Fixed,False,Fixture Report
+OBS_0048,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_020,Supramax,2020-04,Gypsum / Limestone,51476,0.36,400981.24,5.78,True,Fixed,False,Fixture Report
+OBS_0049,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_014,Supramax,2020-05,Thermal Coal,51597,0.36,404722.04,5.84,True,Fixed,False,Fixture Report
+OBS_0050,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_030,Panamax,2020-05,Thermal Coal,74105,0.39,489643.98,5.01,True,Fixed,False,Fixture Report
+OBS_0051,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_035,Capesize,2020-05,Coking Coal,176228,0.58,850148.16,5.24,True,Fixed,False,Fixture Report
+OBS_0052,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_035,Capesize,2020-05,Coking Coal,179545,0.57,837316.28,4.97,True,Fixed,False,Fixture Report
+OBS_0053,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_037,Capesize,2020-05,Thermal Coal,190413,0.5,811291.28,3.92,True,Fixed,False,Fixture Report
+OBS_0054,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_039,Capesize,2020-05,Iron Ore,186403,0.48,862106.87,3.91,True,Fixed,False,Fixture Report
+OBS_0055,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_037,Capesize,2020-05,Iron Ore,182288,0.49,793995.48,3.93,True,Fixed,False,Fixture Report
+OBS_0056,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_007,Handysize,2020-05,Rock Phosphate / Fertilizer,33576,0.39,298588.25,6.84,True,Fixed,False,Fixture Report
+OBS_0057,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_021,Supramax,2020-05,Thermal Coal,52472,0.34,423367.63,5.49,True,Fixed,False,Fixture Report
+OBS_0058,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_005,Handysize,2020-05,Thermal Coal,28421,0.3,325114.94,6.82,True,Fixed,False,Fixture Report
+OBS_0059,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_025,Panamax,2020-05,Coastal Thermal Coal,75952,0.19,494495.18,2.32,True,Fixed,False,Fixture Report
+OBS_0060,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_011,Supramax,2020-05,Gypsum / Limestone,55020,0.35,410199.48,5.0,True,Fixed,False,Fixture Report
+OBS_0061,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_019,Supramax,2020-06,Thermal Coal,56717,0.35,453471.96,5.34,True,Fixed,False,Fixture Report
+OBS_0062,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_023,Panamax,2020-06,Thermal Coal,69850,0.38,511962.34,4.89,True,Fixed,False,Fixture Report
+OBS_0063,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_039,Capesize,2020-06,Coking Coal,184197,0.57,865752.38,4.67,True,Fixed,False,Fixture Report
+OBS_0064,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_035,Capesize,2020-06,Coking Coal,185450,0.57,911199.1,4.96,True,Fixed,False,Fixture Report
+OBS_0065,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_036,Capesize,2020-06,Thermal Coal,162435,0.52,874518.39,5.38,True,Fixed,False,Fixture Report
+OBS_0066,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_033,Capesize,2020-06,Iron Ore,173445,0.49,844266.94,4.58,True,Fixed,False,Fixture Report
+OBS_0067,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_033,Capesize,2020-06,Iron Ore,170098,0.5,856372.93,4.76,True,Fixed,False,Fixture Report
+OBS_0068,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_007,Handysize,2020-06,Rock Phosphate / Fertilizer,35010,0.39,308637.17,6.56,True,Fixed,False,Fixture Report
+OBS_0069,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_014,Supramax,2020-06,Thermal Coal,51584,0.34,443442.33,5.69,True,Fixed,False,Fixture Report
+OBS_0070,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_006,Handysize,2020-06,Thermal Coal,28023,0.29,333178.92,6.48,True,Fixed,False,Fixture Report
+OBS_0071,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_027,Panamax,2020-06,Coastal Thermal Coal,78152,0.19,521097.06,2.48,True,Fixed,False,Fixture Report
+OBS_0072,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_012,Supramax,2020-06,Gypsum / Limestone,51326,0.36,422552.12,5.84,True,Fixed,False,Fixture Report
+OBS_0073,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_016,Supramax,2020-07,Thermal Coal,50623,0.34,402522.1,5.51,True,Fixed,False,Fixture Report
+OBS_0074,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_023,Panamax,2020-07,Thermal Coal,71179,0.38,523686.7,5.08,True,Fixed,False,Fixture Report
+OBS_0075,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_037,Capesize,2020-07,Coking Coal,180166,0.57,843090.39,4.99,True,Fixed,False,Fixture Report
+OBS_0076,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_039,Capesize,2020-07,Coking Coal,192426,0.56,839028.27,4.47,True,Fixed,False,Fixture Report
+OBS_0077,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_035,Capesize,2020-07,Thermal Coal,177558,0.51,864999.81,4.72,True,Fixed,False,Fixture Report
+OBS_0078,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_036,Capesize,2020-07,Iron Ore,173028,0.5,839287.41,4.97,True,Fixed,False,Fixture Report
+OBS_0079,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_034,Capesize,2020-07,Iron Ore,178286,0.48,893286.52,4.32,True,Fixed,False,Fixture Report
+OBS_0080,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_001,Handysize,2020-07,Rock Phosphate / Fertilizer,33644,0.4,323437.87,7.9,True,Fixed,False,Fixture Report
+OBS_0081,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_015,Supramax,2020-07,Thermal Coal,51727,0.33,,,True,Fixed,False,Fixture Report
+OBS_0082,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_002,Handysize,2020-07,Thermal Coal,28234,0.3,316167.81,7.4,True,Fixed,False,Fixture Report
+OBS_0083,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_032,Panamax,2020-07,Coastal Thermal Coal,67815,0.19,544582.84,2.74,True,Fixed,False,Fixture Report
+OBS_0084,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_014,Supramax,2020-07,Gypsum / Limestone,50926,0.36,410175.0,6.31,True,Fixed,False,Fixture Report
+OBS_0085,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_017,Supramax,2020-08,Thermal Coal,53334,0.35,419332.37,5.71,True,Fixed,False,Fixture Report
+OBS_0086,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_025,Panamax,2020-08,Thermal Coal,75346,0.38,493647.66,4.67,True,Fixed,False,Fixture Report
+OBS_0087,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_033,Capesize,2020-08,Coking Coal,174511,0.59,818705.83,5.39,True,Fixed,False,Fixture Report
+OBS_0088,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_037,Capesize,2020-08,Coking Coal,187272,0.56,813410.61,4.41,True,Fixed,False,Fixture Report
+OBS_0089,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_038,Capesize,2020-08,Thermal Coal,181983,0.51,834982.74,4.34,True,Fixed,False,Fixture Report
+OBS_0090,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_034,Capesize,2020-08,Iron Ore,181296,0.48,809667.9,3.83,True,Fixed,False,Fixture Report
+OBS_0091,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_037,Capesize,2020-08,Iron Ore,183632,0.49,807225.2,3.9,True,Fixed,False,Fixture Report
+OBS_0092,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_008,Handysize,2020-08,Rock Phosphate / Fertilizer,28664,0.4,325734.89,8.7,True,Fixed,False,Fixture Report
+OBS_0093,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_014,Supramax,2020-08,Thermal Coal,50717,0.34,422771.52,5.69,True,Fixed,False,Fixture Report
+OBS_0094,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_005,Handysize,2020-08,Thermal Coal,28755,0.3,313688.55,6.55,True,Fixed,False,Fixture Report
+OBS_0095,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_031,Panamax,2020-08,Coastal Thermal Coal,76405,0.19,507813.56,2.33,True,Fixed,False,Fixture Report
+OBS_0096,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_019,Supramax,2020-08,Gypsum / Limestone,54154,0.36,434580.19,5.63,True,Fixed,False,Fixture Report
+OBS_0097,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_018,Supramax,2020-09,Thermal Coal,57336,0.34,437030.59,4.64,True,Fixed,False,Fixture Report
+OBS_0098,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_023,Panamax,2020-09,Thermal Coal,69945,0.38,515603.58,4.9,True,Fixed,False,Fixture Report
+OBS_0099,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_039,Capesize,2020-09,Coking Coal,190221,0.57,895186.16,4.61,True,Fixed,False,Fixture Report
+OBS_0100,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_034,Capesize,2020-09,Coking Coal,180731,0.56,883165.36,4.66,True,Fixed,False,Fixture Report
+OBS_0101,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_033,Capesize,2020-09,Thermal Coal,175972,0.51,811827.31,4.61,True,Fixed,False,Fixture Report
+OBS_0102,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_040,Capesize,2020-09,Iron Ore,168385,0.49,895334.22,4.55,True,Fixed,False,Fixture Report
+OBS_0103,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_033,Capesize,2020-09,Iron Ore,175572,0.5,804142.95,4.46,True,Fixed,False,Fixture Report
+OBS_0104,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_003,Handysize,2020-09,Rock Phosphate / Fertilizer,28722,0.41,322815.67,9.75,True,Fixed,False,Fixture Report
+OBS_0105,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_014,Supramax,2020-09,Thermal Coal,49876,0.34,412651.18,5.67,True,Fixed,False,Fixture Report
+OBS_0106,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_010,Handysize,2020-09,Thermal Coal,32838,0.29,323894.41,5.58,True,Fixed,False,Fixture Report
+OBS_0107,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_032,Panamax,2020-09,Coastal Thermal Coal,70339,0.19,507730.76,2.43,True,Fixed,False,Fixture Report
+OBS_0108,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_022,Supramax,2020-09,Gypsum / Limestone,57789,0.35,416597.01,4.61,True,Fixed,False,Fixture Report
+OBS_0109,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_019,Supramax,2020-10,Thermal Coal,54987,0.35,448674.04,5.43,True,Fixed,False,Fixture Report
+OBS_0110,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_029,Panamax,2020-10,Thermal Coal,78780,0.38,546927.06,4.66,True,Fixed,False,Fixture Report
+OBS_0111,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_036,Capesize,2020-10,Coking Coal,169478,0.6,836416.39,5.72,True,Fixed,False,Fixture Report
+OBS_0112,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_040,Capesize,2020-10,Coking Coal,167630,0.56,816446.59,5.02,True,Fixed,False,Fixture Report
+OBS_0113,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_034,Capesize,2020-10,Thermal Coal,173656,0.5,804129.17,4.1,True,Fixed,False,Fixture Report
+OBS_0114,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_034,Capesize,2020-10,Iron Ore,181708,0.48,818973.46,3.79,True,Fixed,False,Fixture Report
+OBS_0115,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_037,Capesize,2020-10,Iron Ore,190227,0.49,842671.36,3.8,True,Fixed,False,Fixture Report
+OBS_0116,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_001,Handysize,2020-10,Rock Phosphate / Fertilizer,34874,0.4,311467.49,7.05,True,Fixed,False,Fixture Report
+OBS_0117,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_015,Supramax,2020-10,Thermal Coal,52431,0.33,435392.72,5.08,True,Fixed,False,Fixture Report
+OBS_0118,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_009,Handysize,2020-10,Thermal Coal,34645,0.29,319680.72,5.39,True,Fixed,False,Fixture Report
+OBS_0119,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_028,Panamax,2020-10,Coastal Thermal Coal,71055,0.19,494964.92,2.68,True,Fixed,False,Fixture Report
+OBS_0120,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_013,Supramax,2020-10,Gypsum / Limestone,53789,0.36,418898.8,5.43,True,Fixed,False,Fixture Report
+OBS_0121,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_018,Supramax,2020-11,Thermal Coal,57481,0.34,444936.33,4.63,True,Fixed,False,Fixture Report
+OBS_0122,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_030,Panamax,2020-11,Thermal Coal,78492,0.39,520395.09,4.75,True,Fixed,False,Fixture Report
+OBS_0123,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_033,Capesize,2020-11,Coking Coal,168923,0.59,865544.67,5.63,True,Fixed,False,Fixture Report
+OBS_0124,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_036,Capesize,2020-11,Coking Coal,166994,0.58,869331.82,5.75,True,Fixed,False,Fixture Report
+OBS_0125,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_037,Capesize,2020-11,Thermal Coal,191084,0.5,858105.04,3.92,True,Fixed,False,Fixture Report
+OBS_0126,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_040,Capesize,2020-11,Iron Ore,169860,0.49,811881.05,4.22,True,Fixed,False,Fixture Report
+OBS_0127,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_036,Capesize,2020-11,Iron Ore,171572,0.51,805146.12,4.67,True,Fixed,False,Fixture Report
+OBS_0128,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_009,Handysize,2020-11,Rock Phosphate / Fertilizer,34586,0.4,319276.06,7.34,True,Fixed,False,Fixture Report
+OBS_0129,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_022,Supramax,2020-11,Thermal Coal,58613,0.32,431877.82,4.26,True,Fixed,False,Fixture Report
+OBS_0130,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_005,Handysize,2020-11,Thermal Coal,28306,0.3,301785.62,6.39,True,Fixed,False,Fixture Report
+OBS_0131,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_028,Panamax,2020-11,Coastal Thermal Coal,72609,0.19,559718.64,2.78,True,Fixed,False,Fixture Report
+OBS_0132,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_020,Supramax,2020-11,Gypsum / Limestone,49417,0.36,422880.11,5.86,True,Fixed,False,Fixture Report
+OBS_0133,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_011,Supramax,2020-12,Thermal Coal,54967,0.34,406774.6,4.67,True,Fixed,False,Fixture Report
+OBS_0134,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_032,Panamax,2020-12,Thermal Coal,70542,0.38,538947.96,4.91,True,Fixed,False,Fixture Report
+OBS_0135,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_035,Capesize,2020-12,Coking Coal,180074,0.58,748142.63,4.59,True,Fixed,False,Fixture Report
+OBS_0136,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_037,Capesize,2020-12,Coking Coal,189238,0.56,795692.2,4.18,True,Fixed,False,Fixture Report
+OBS_0137,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_037,Capesize,2020-12,Thermal Coal,189928,0.5,805185.8,3.76,True,Fixed,False,Fixture Report
+OBS_0138,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_036,Capesize,2020-12,Iron Ore,167894,0.5,767283.59,4.54,True,Fixed,False,Fixture Report
+OBS_0139,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_039,Capesize,2020-12,Iron Ore,191096,0.48,780949.27,3.51,True,Fixed,False,Fixture Report
+OBS_0140,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_004,Handysize,2020-12,Rock Phosphate / Fertilizer,29205,0.39,318719.1,7.97,True,Fixed,False,Fixture Report
+OBS_0141,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_022,Supramax,2020-12,Thermal Coal,58443,0.32,387666.13,3.97,True,Fixed,False,Fixture Report
+OBS_0142,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_009,Handysize,2020-12,Thermal Coal,35056,0.29,292797.53,5.01,True,Fixed,False,Fixture Report
+OBS_0143,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_023,Panamax,2020-12,Coastal Thermal Coal,71036,0.19,496862.79,2.31,True,Fixed,False,Fixture Report
+OBS_0144,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_022,Supramax,2020-12,Gypsum / Limestone,56882,0.35,397375.16,4.46,True,Fixed,False,Fixture Report
+OBS_0145,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_020,Supramax,2021-01,Thermal Coal,49895,0.35,399354.02,5.35,True,Fixed,False,Fixture Report
+OBS_0146,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_032,Panamax,2021-01,Thermal Coal,67547,0.38,487459.29,4.78,True,Fixed,False,Fixture Report
+OBS_0147,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_040,Capesize,2021-01,Coking Coal,175725,0.58,733873.62,4.5,True,Fixed,False,Fixture Report
+OBS_0148,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_033,Capesize,2021-01,Coking Coal,170179,0.57,748388.27,4.9,True,Fixed,False,Fixture Report
+OBS_0149,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_039,Capesize,2021-01,Thermal Coal,190753,0.5,720942.79,3.42,True,Fixed,False,Fixture Report
+OBS_0150,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_040,Capesize,2021-01,Iron Ore,173507,0.49,709256.6,3.74,True,Fixed,False,Fixture Report
+OBS_0151,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_040,Capesize,2021-01,Iron Ore,167163,0.49,,,True,Fixed,False,Fixture Report
+OBS_0152,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_009,Handysize,2021-01,Rock Phosphate / Fertilizer,35432,0.4,304953.01,6.8,True,Fixed,False,Fixture Report
+OBS_0153,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_015,Supramax,2021-01,Thermal Coal,52934,0.33,417606.13,4.77,True,Fixed,False,Fixture Report
+OBS_0154,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_007,Handysize,2021-01,Thermal Coal,34073,0.29,293631.76,4.64,True,Fixed,False,Fixture Report
+OBS_0155,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_029,Panamax,2021-01,Coastal Thermal Coal,79512,0.19,501919.79,2.12,True,Fixed,False,Fixture Report
+OBS_0156,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_014,Supramax,2021-01,Gypsum / Limestone,51319,0.36,375064.4,5.45,True,Fixed,False,Fixture Report
+OBS_0157,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_022,Supramax,2021-02,Thermal Coal,55263,0.34,421793.36,4.55,True,Fixed,False,Fixture Report
+OBS_0158,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_032,Panamax,2021-02,Thermal Coal,71166,0.38,523016.81,4.7,True,Fixed,False,Fixture Report
+OBS_0159,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_038,Capesize,2021-02,Coking Coal,178713,0.59,689312.99,4.34,True,Fixed,False,Fixture Report
+OBS_0160,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_037,Capesize,2021-02,Coking Coal,181422,0.56,695937.71,3.97,True,Fixed,False,Fixture Report
+OBS_0161,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_033,Capesize,2021-02,Thermal Coal,174928,0.51,735915.16,4.2,True,Fixed,False,Fixture Report
+OBS_0162,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_033,Capesize,2021-02,Iron Ore,176177,0.49,698493.89,3.89,True,Fixed,False,Fixture Report
+OBS_0163,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_033,Capesize,2021-02,Iron Ore,179492,0.5,737921.21,3.98,True,Fixed,False,Fixture Report
+OBS_0164,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_005,Handysize,2021-02,Rock Phosphate / Fertilizer,28277,0.41,301827.8,8.45,True,Fixed,False,Fixture Report
+OBS_0165,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_018,Supramax,2021-02,Thermal Coal,55603,0.32,387510.95,4.07,True,Fixed,False,Fixture Report
+OBS_0166,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_001,Handysize,2021-02,Thermal Coal,33905,0.29,307050.35,5.08,True,Fixed,False,Fixture Report
+OBS_0167,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_025,Panamax,2021-02,Coastal Thermal Coal,72159,0.19,487457.27,2.28,True,Fixed,False,Fixture Report
+OBS_0168,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_014,Supramax,2021-02,Gypsum / Limestone,50012,0.36,377584.59,5.57,True,Fixed,False,Fixture Report
+OBS_0169,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_020,Supramax,2021-03,Thermal Coal,51752,0.35,385082.5,5.04,True,Fixed,False,Fixture Report
+OBS_0170,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_029,Panamax,2021-03,Thermal Coal,77896,0.38,466872.83,4.17,True,Fixed,False,Fixture Report
+OBS_0171,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_036,Capesize,2021-03,Coking Coal,167681,0.6,669701.27,4.98,True,Fixed,False,Fixture Report
+OBS_0172,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_039,Capesize,2021-03,Coking Coal,183535,0.56,666507.07,3.78,True,Fixed,False,Fixture Report
+OBS_0173,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_039,Capesize,2021-03,Thermal Coal,186260,0.5,681179.93,3.38,True,Fixed,False,Fixture Report
+OBS_0174,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_034,Capesize,2021-03,Iron Ore,177864,0.48,635182.05,3.25,True,Fixed,False,Fixture Report
+OBS_0175,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_038,Capesize,2021-03,Iron Ore,178314,0.5,681986.93,3.67,True,Fixed,False,Fixture Report
+OBS_0176,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_002,Handysize,2021-03,Rock Phosphate / Fertilizer,27998,0.41,309377.62,9.14,True,Fixed,False,Fixture Report
+OBS_0177,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_014,Supramax,2021-03,Thermal Coal,52049,0.34,360691.81,4.85,True,Fixed,False,Fixture Report
+OBS_0178,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_001,Handysize,2021-03,Thermal Coal,33275,0.29,301756.21,5.13,True,Fixed,False,Fixture Report
+OBS_0179,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_023,Panamax,2021-03,Coastal Thermal Coal,68520,0.19,495595.79,2.35,True,Fixed,False,Fixture Report
+OBS_0180,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_011,Supramax,2021-03,Gypsum / Limestone,55185,0.35,379300.45,4.5,True,Fixed,False,Fixture Report
+OBS_0181,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_011,Supramax,2021-04,Thermal Coal,53273,0.34,382977.83,4.52,True,Fixed,False,Fixture Report
+OBS_0182,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_026,Panamax,2021-04,Thermal Coal,73457,0.38,496422.95,4.47,True,Fixed,False,Fixture Report
+OBS_0183,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_040,Capesize,2021-04,Coking Coal,177045,0.58,671877.74,4.18,True,Fixed,False,Fixture Report
+OBS_0184,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_035,Capesize,2021-04,Coking Coal,187128,0.57,714322.4,4.06,True,Fixed,False,Fixture Report
+OBS_0185,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_036,Capesize,2021-04,Thermal Coal,164479,0.52,645986.49,4.28,True,Fixed,False,Fixture Report
+OBS_0186,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_039,Capesize,2021-04,Iron Ore,182659,0.48,641806.22,3.16,True,Fixed,False,Fixture Report
+OBS_0187,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_040,Capesize,2021-04,Iron Ore,167638,0.49,696147.44,3.81,True,Fixed,False,Fixture Report
+OBS_0188,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_006,Handysize,2021-04,Rock Phosphate / Fertilizer,27489,0.4,280872.9,7.75,True,Fixed,False,Fixture Report
+OBS_0189,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_022,Supramax,2021-04,Thermal Coal,58277,0.32,354965.2,3.68,True,Fixed,False,Fixture Report
+OBS_0190,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_002,Handysize,2021-04,Thermal Coal,28560,0.3,279593.97,6.13,True,Fixed,False,Fixture Report
+OBS_0191,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_030,Panamax,2021-04,Coastal Thermal Coal,74562,0.19,505376.3,2.32,True,Fixed,False,Fixture Report
+OBS_0192,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_022,Supramax,2021-04,Gypsum / Limestone,57483,0.35,393558.37,4.25,True,Fixed,False,Fixture Report
+OBS_0193,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_018,Supramax,2021-05,Thermal Coal,56740,0.34,385804.42,4.11,True,Fixed,False,Fixture Report
+OBS_0194,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_031,Panamax,2021-05,Thermal Coal,75187,0.38,446134.58,4.16,True,Fixed,False,Fixture Report
+OBS_0195,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_033,Capesize,2021-05,Coking Coal,177194,0.59,687121.46,4.5,True,Fixed,False,Fixture Report
+OBS_0196,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_034,Capesize,2021-05,Coking Coal,181907,0.56,655770.8,3.68,True,Fixed,False,Fixture Report
+OBS_0197,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_040,Capesize,2021-05,Thermal Coal,170721,0.51,684702.13,3.79,True,Fixed,False,Fixture Report
+OBS_0198,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_037,Capesize,2021-05,Iron Ore,183629,0.48,696976.58,3.31,True,Fixed,False,Fixture Report
+OBS_0199,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_040,Capesize,2021-05,Iron Ore,176123,0.49,657073.15,3.49,True,Fixed,False,Fixture Report
+OBS_0200,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_009,Handysize,2021-05,Rock Phosphate / Fertilizer,35911,0.4,290221.63,6.36,True,Fixed,False,Fixture Report
+OBS_0201,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_017,Supramax,2021-05,Thermal Coal,53555,0.34,390229.94,4.81,True,Fixed,False,Fixture Report
+OBS_0202,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_010,Handysize,2021-05,Thermal Coal,32747,0.29,292651.94,4.96,True,Fixed,False,Fixture Report
+OBS_0203,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_026,Panamax,2021-05,Coastal Thermal Coal,72800,0.19,486125.97,2.2,True,Fixed,False,Fixture Report
+OBS_0204,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_020,Supramax,2021-05,Gypsum / Limestone,50230,0.36,350397.24,4.95,True,Fixed,False,Fixture Report
+OBS_0205,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_016,Supramax,2021-06,Thermal Coal,52678,0.34,336645.47,4.34,True,Fixed,False,Fixture Report
+OBS_0206,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_024,Panamax,2021-06,Thermal Coal,75003,0.38,512021.97,4.44,True,Fixed,False,Fixture Report
+OBS_0207,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_037,Capesize,2021-06,Coking Coal,190928,0.57,651999.58,3.71,True,Fixed,False,Fixture Report
+OBS_0208,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_038,Capesize,2021-06,Coking Coal,181298,0.57,642305.62,3.98,True,Fixed,False,Fixture Report
+OBS_0209,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_040,Capesize,2021-06,Thermal Coal,169846,0.51,633015.83,3.7,True,Fixed,False,Fixture Report
+OBS_0210,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_033,Capesize,2021-06,Iron Ore,176315,0.49,665877.28,3.76,True,Fixed,False,Fixture Report
+OBS_0211,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_034,Capesize,2021-06,Iron Ore,179645,0.48,668765.76,3.31,True,Fixed,False,Fixture Report
+OBS_0212,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_004,Handysize,2021-06,Rock Phosphate / Fertilizer,28069,0.39,283600.06,7.55,True,Fixed,False,Fixture Report
+OBS_0213,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_017,Supramax,2021-06,Thermal Coal,53394,0.34,356112.03,4.66,True,Fixed,False,Fixture Report
+OBS_0214,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_010,Handysize,2021-06,Thermal Coal,32612,0.29,296993.27,5.08,True,Fixed,False,Fixture Report
+OBS_0215,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_030,Panamax,2021-06,Coastal Thermal Coal,75710,0.19,463463.11,2.18,True,Fixed,False,Fixture Report
+OBS_0216,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_017,Supramax,2021-06,Gypsum / Limestone,53697,0.36,365117.22,5.07,True,Fixed,False,Fixture Report
+OBS_0217,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_014,Supramax,2021-07,Thermal Coal,51914,0.36,340391.97,4.89,True,Fixed,False,Fixture Report
+OBS_0218,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_023,Panamax,2021-07,Thermal Coal,68783,0.38,466623.43,4.44,True,Fixed,False,Fixture Report
+OBS_0219,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_039,Capesize,2021-07,Coking Coal,182320,0.57,661557.28,3.82,True,Fixed,False,Fixture Report
+OBS_0220,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_034,Capesize,2021-07,Coking Coal,178674,0.56,604956.51,3.6,True,Fixed,False,Fixture Report
+OBS_0221,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_033,Capesize,2021-07,Thermal Coal,169704,0.51,674152.16,4.07,True,Fixed,False,Fixture Report
+OBS_0222,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_040,Capesize,2021-07,Iron Ore,170746,0.49,627068.57,3.48,True,Fixed,False,Fixture Report
+OBS_0223,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_040,Capesize,2021-07,Iron Ore,175616,0.49,671141.32,3.55,True,Fixed,False,Fixture Report
+OBS_0224,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_002,Handysize,2021-07,Rock Phosphate / Fertilizer,28870,0.41,290182.27,8.41,True,Fixed,False,Fixture Report
+OBS_0225,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_016,Supramax,2021-07,Thermal Coal,50926,0.33,339635.98,4.24,True,Fixed,False,Fixture Report
+OBS_0226,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_003,Handysize,2021-07,Thermal Coal,30008,0.3,283593.25,5.96,True,Fixed,False,Fixture Report
+OBS_0227,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_029,Panamax,2021-07,Coastal Thermal Coal,77645,0.19,477853.12,2.06,True,Fixed,False,Fixture Report
+OBS_0228,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_012,Supramax,2021-07,Gypsum / Limestone,50048,0.36,357187.61,5.14,True,Fixed,False,Fixture Report
+OBS_0229,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_015,Supramax,2021-08,Thermal Coal,50528,0.35,331325.27,4.7,True,Fixed,False,Fixture Report
+OBS_0230,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_028,Panamax,2021-08,Thermal Coal,70011,0.4,414939.54,4.99,True,Fixed,False,Fixture Report
+OBS_0231,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_038,Capesize,2021-08,Coking Coal,175333,0.59,629098.01,4.27,True,Fixed,False,Fixture Report
+OBS_0232,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_033,Capesize,2021-08,Coking Coal,177143,0.57,624214.95,4.32,True,Fixed,False,Fixture Report
+OBS_0233,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_033,Capesize,2021-08,Thermal Coal,179574,0.51,608751.92,3.78,True,Fixed,False,Fixture Report
+OBS_0234,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_040,Capesize,2021-08,Iron Ore,169763,0.49,645368.73,3.66,True,Fixed,False,Fixture Report
+OBS_0235,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_038,Capesize,2021-08,Iron Ore,176563,0.5,652386.36,3.65,True,Fixed,False,Fixture Report
+OBS_0236,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_004,Handysize,2021-08,Rock Phosphate / Fertilizer,27922,0.39,292373.35,7.88,True,Fixed,False,Fixture Report
+OBS_0237,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_020,Supramax,2021-08,Thermal Coal,49100,0.33,348186.18,4.83,True,Fixed,False,Fixture Report
+OBS_0238,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_007,Handysize,2021-08,Thermal Coal,34098,0.29,293140.09,4.65,True,Fixed,False,Fixture Report
+OBS_0239,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_030,Panamax,2021-08,Coastal Thermal Coal,74343,0.19,437639.53,2.2,True,Fixed,False,Fixture Report
+OBS_0240,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_012,Supramax,2021-08,Gypsum / Limestone,52890,0.36,333497.81,4.86,True,Fixed,False,Fixture Report
+OBS_0241,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_019,Supramax,2021-09,Thermal Coal,56078,0.35,359367.75,4.3,True,Fixed,False,Fixture Report
+OBS_0242,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_031,Panamax,2021-09,Thermal Coal,76036,0.38,437009.89,3.92,True,Fixed,False,Fixture Report
+OBS_0243,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_037,Capesize,2021-09,Coking Coal,186544,0.57,677416.4,3.7,True,Fixed,False,Fixture Report
+OBS_0244,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_039,Capesize,2021-09,Coking Coal,181989,0.56,629316.28,3.49,True,Fixed,False,Fixture Report
+OBS_0245,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_033,Capesize,2021-09,Thermal Coal,179442,0.51,676571.49,3.7,True,Fixed,False,Fixture Report
+OBS_0246,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_036,Capesize,2021-09,Iron Ore,167292,0.5,655621.06,3.87,True,Fixed,False,Fixture Report
+OBS_0247,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_039,Capesize,2021-09,Iron Ore,184795,0.48,622115.77,2.97,True,Fixed,False,Fixture Report
+OBS_0248,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_010,Handysize,2021-09,Rock Phosphate / Fertilizer,32659,0.4,272524.36,6.29,True,Fixed,False,Fixture Report
+OBS_0249,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_020,Supramax,2021-09,Thermal Coal,50865,0.33,333328.1,4.24,True,Fixed,False,Fixture Report
+OBS_0250,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_005,Handysize,2021-09,Thermal Coal,29041,0.3,293591.42,5.59,True,Fixed,False,Fixture Report
+OBS_0251,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_027,Panamax,2021-09,Coastal Thermal Coal,76858,0.19,432285.84,2.05,True,Fixed,False,Fixture Report
+OBS_0252,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_013,Supramax,2021-09,Gypsum / Limestone,52634,0.36,364341.56,4.67,True,Fixed,False,Fixture Report
+OBS_0253,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_014,Supramax,2021-10,Thermal Coal,52136,0.36,346530.41,5.05,True,Fixed,False,Fixture Report
+OBS_0254,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_031,Panamax,2021-10,Thermal Coal,78281,0.38,465395.11,4.2,True,Fixed,False,Fixture Report
+OBS_0255,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_035,Capesize,2021-10,Coking Coal,186995,0.58,683012.42,4.16,True,Fixed,False,Fixture Report
+OBS_0256,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_039,Capesize,2021-10,Coking Coal,188859,0.56,658475.79,3.68,True,Fixed,False,Fixture Report
+OBS_0257,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_036,Capesize,2021-10,Thermal Coal,172455,0.52,694211.9,4.33,True,Fixed,False,Fixture Report
+OBS_0258,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_033,Capesize,2021-10,Iron Ore,169258,0.49,627204.08,3.88,True,Fixed,False,Fixture Report
+OBS_0259,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_035,Capesize,2021-10,Iron Ore,180273,0.49,689782.16,3.67,True,Fixed,False,Fixture Report
+OBS_0260,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_001,Handysize,2021-10,Rock Phosphate / Fertilizer,35299,0.4,270906.5,6.29,True,Fixed,False,Fixture Report
+OBS_0261,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_019,Supramax,2021-10,Thermal Coal,55951,0.33,355990.02,4.36,True,Fixed,False,Fixture Report
+OBS_0262,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_003,Handysize,2021-10,Thermal Coal,30374,0.3,294377.5,6.16,True,Fixed,False,Fixture Report
+OBS_0263,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_027,Panamax,2021-10,Coastal Thermal Coal,77544,0.19,446370.18,2.21,True,Fixed,False,Fixture Report
+OBS_0264,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_020,Supramax,2021-10,Gypsum / Limestone,50313,0.36,351331.86,5.1,True,Fixed,False,Fixture Report
+OBS_0265,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_018,Supramax,2021-11,Thermal Coal,54293,0.34,376006.51,4.38,True,Fixed,False,Fixture Report
+OBS_0266,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_026,Panamax,2021-11,Thermal Coal,75142,0.38,471931.18,4.36,True,Fixed,False,Fixture Report
+OBS_0267,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_038,Capesize,2021-11,Coking Coal,185528,0.59,685030.58,4.23,True,Fixed,False,Fixture Report
+OBS_0268,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_039,Capesize,2021-11,Coking Coal,190741,0.56,716823.78,3.83,True,Fixed,False,Fixture Report
+OBS_0269,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_039,Capesize,2021-11,Thermal Coal,191717,0.5,659872.32,3.27,True,Fixed,False,Fixture Report
+OBS_0270,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_037,Capesize,2021-11,Iron Ore,184943,0.48,650220.98,3.28,True,Fixed,False,Fixture Report
+OBS_0271,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_035,Capesize,2021-11,Iron Ore,187045,0.49,689174.27,3.56,True,Fixed,False,Fixture Report
+OBS_0272,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_008,Handysize,2021-11,Rock Phosphate / Fertilizer,27411,0.4,283121.78,8.14,True,Fixed,False,Fixture Report
+OBS_0273,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_018,Supramax,2021-11,Thermal Coal,56318,0.32,354108.54,3.88,True,Fixed,False,Fixture Report
+OBS_0274,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_005,Handysize,2021-11,Thermal Coal,27476,0.3,283117.53,6.25,True,Fixed,False,Fixture Report
+OBS_0275,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_029,Panamax,2021-11,Coastal Thermal Coal,78129,0.19,459781.71,2.07,True,Fixed,False,Fixture Report
+OBS_0276,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_018,Supramax,2021-11,Gypsum / Limestone,55965,0.35,375464.38,4.34,True,Fixed,False,Fixture Report
+OBS_0277,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_014,Supramax,2021-12,Thermal Coal,51694,0.36,393649.69,5.19,True,Fixed,False,Fixture Report
+OBS_0278,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_029,Panamax,2021-12,Thermal Coal,79923,0.38,457851.96,3.88,True,Fixed,False,Fixture Report
+OBS_0279,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_039,Capesize,2021-12,Coking Coal,183061,0.57,680528.41,3.81,True,Fixed,False,Fixture Report
+OBS_0280,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_036,Capesize,2021-12,Coking Coal,170533,0.58,731729.74,4.8,True,Fixed,False,Fixture Report
+OBS_0281,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_034,Capesize,2021-12,Thermal Coal,178649,0.5,696470.77,3.43,True,Fixed,False,Fixture Report
+OBS_0282,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_038,Capesize,2021-12,Iron Ore,175551,0.49,679296.0,3.54,True,Fixed,False,Fixture Report
+OBS_0283,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_033,Capesize,2021-12,Iron Ore,172694,0.5,729099.09,3.97,True,Fixed,False,Fixture Report
+OBS_0284,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_006,Handysize,2021-12,Rock Phosphate / Fertilizer,28075,0.4,279886.69,7.41,True,Fixed,False,Fixture Report
+OBS_0285,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_017,Supramax,2021-12,Thermal Coal,56396,0.34,383675.93,4.46,True,Fixed,False,Fixture Report
+OBS_0286,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_002,Handysize,2021-12,Thermal Coal,28018,0.3,291601.47,6.23,True,Fixed,False,Fixture Report
+OBS_0287,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_023,Panamax,2021-12,Coastal Thermal Coal,70208,0.19,470003.28,2.15,True,Fixed,False,Fixture Report
+OBS_0288,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_016,Supramax,2021-12,Gypsum / Limestone,52536,0.35,411872.29,4.85,True,Fixed,False,Fixture Report
+OBS_0289,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_021,Supramax,2022-01,Thermal Coal,49894,0.35,397375.24,5.53,True,Fixed,False,Fixture Report
+OBS_0290,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_026,Panamax,2022-01,Thermal Coal,73618,0.38,457825.35,4.32,True,Fixed,False,Fixture Report
+OBS_0291,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_039,Capesize,2022-01,Coking Coal,186993,0.57,808923.16,4.25,True,Fixed,False,Fixture Report
+OBS_0292,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_040,Capesize,2022-01,Coking Coal,172061,0.56,749146.19,4.51,True,Fixed,False,Fixture Report
+OBS_0293,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_034,Capesize,2022-01,Thermal Coal,177845,0.5,741013.61,3.7,True,Fixed,False,Fixture Report
+OBS_0294,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_036,Capesize,2022-01,Iron Ore,163181,0.5,730801.22,4.47,True,Fixed,False,Fixture Report
+OBS_0295,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_034,Capesize,2022-01,Iron Ore,172096,0.48,732914.35,3.68,True,Fixed,False,Fixture Report
+OBS_0296,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_007,Handysize,2022-01,Rock Phosphate / Fertilizer,33244,0.39,295988.33,6.46,True,Fixed,False,Fixture Report
+OBS_0297,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_013,Supramax,2022-01,Thermal Coal,52195,0.33,371023.02,4.69,True,Fixed,False,Fixture Report
+OBS_0298,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_003,Handysize,2022-01,Thermal Coal,30235,0.3,290158.37,6.11,True,Fixed,False,Fixture Report
+OBS_0299,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_031,Panamax,2022-01,Coastal Thermal Coal,77084,0.19,452963.7,2.07,True,Fixed,False,Fixture Report
+OBS_0300,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_015,Supramax,2022-01,Gypsum / Limestone,51137,0.35,357196.48,4.89,True,Fixed,False,Fixture Report
+OBS_0301,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_019,Supramax,2022-02,Thermal Coal,54426,0.35,386623.37,4.94,True,Fixed,False,Fixture Report
+OBS_0302,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_031,Panamax,2022-02,Thermal Coal,74670,0.38,455440.15,4.36,True,Fixed,False,Fixture Report
+OBS_0303,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_038,Capesize,2022-02,Coking Coal,175369,0.59,823895.96,4.92,True,Fixed,False,Fixture Report
+OBS_0304,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_037,Capesize,2022-02,Coking Coal,182019,0.56,814309.24,4.36,True,Fixed,False,Fixture Report
+OBS_0305,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_038,Capesize,2022-02,Thermal Coal,179808,0.51,846704.88,4.25,True,Fixed,False,Fixture Report
+OBS_0306,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_035,Capesize,2022-02,Iron Ore,176320,0.49,857533.94,4.18,True,Fixed,False,Fixture Report
+OBS_0307,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_033,Capesize,2022-02,Iron Ore,175813,0.5,786246.02,4.24,True,Fixed,False,Fixture Report
+OBS_0308,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_004,Handysize,2022-02,Rock Phosphate / Fertilizer,29524,0.39,315157.12,7.75,True,Fixed,False,Fixture Report
+OBS_0309,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_013,Supramax,2022-02,Thermal Coal,51779,0.33,386541.74,4.87,True,Fixed,False,Fixture Report
+OBS_0310,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_010,Handysize,2022-02,Thermal Coal,33382,0.29,308942.95,5.17,True,Fixed,False,Fixture Report
+OBS_0311,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_025,Panamax,2022-02,Coastal Thermal Coal,72976,0.19,462376.17,2.21,True,Fixed,False,Fixture Report
+OBS_0312,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_018,Supramax,2022-02,Gypsum / Limestone,55425,0.35,396438.35,4.5,True,Fixed,False,Fixture Report
+OBS_0313,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_017,Supramax,2022-03,Thermal Coal,55382,0.35,407534.87,5.14,True,Fixed,False,Fixture Report
+OBS_0314,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_024,Panamax,2022-03,Thermal Coal,75704,0.38,500756.74,4.39,True,Fixed,False,Fixture Report
+OBS_0315,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_038,Capesize,2022-03,Coking Coal,174395,0.59,808067.3,4.87,True,Fixed,False,Fixture Report
+OBS_0316,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_034,Capesize,2022-03,Coking Coal,178755,0.56,872303.77,4.51,True,Fixed,False,Fixture Report
+OBS_0317,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_033,Capesize,2022-03,Thermal Coal,174506,0.51,836017.32,4.53,True,Fixed,False,Fixture Report
+OBS_0318,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_037,Capesize,2022-03,Iron Ore,180832,0.48,827552.55,3.79,True,Fixed,False,Fixture Report
+OBS_0319,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_039,Capesize,2022-03,Iron Ore,187882,0.48,807071.29,3.58,True,Fixed,False,Fixture Report
+OBS_0320,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_004,Handysize,2022-03,Rock Phosphate / Fertilizer,28400,0.39,305022.57,7.87,True,Fixed,False,Fixture Report
+OBS_0321,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_016,Supramax,2022-03,Thermal Coal,49746,0.33,405207.87,4.87,True,Fixed,False,Fixture Report
+OBS_0322,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_008,Handysize,2022-03,Thermal Coal,27380,0.29,303173.01,6.13,True,Fixed,False,Fixture Report
+OBS_0323,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_024,Panamax,2022-03,Coastal Thermal Coal,74026,0.19,509105.19,2.26,True,Fixed,False,Fixture Report
+OBS_0324,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_021,Supramax,2022-03,Gypsum / Limestone,51365,0.36,422946.83,5.69,True,Fixed,False,Fixture Report
+OBS_0325,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_011,Supramax,2022-04,Thermal Coal,54662,0.34,436462.39,4.9,True,Fixed,False,Fixture Report
+OBS_0326,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_028,Panamax,2022-04,Thermal Coal,70154,0.4,497866.91,5.52,True,Fixed,False,Fixture Report
+OBS_0327,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_040,Capesize,2022-04,Coking Coal,173107,0.58,895360.34,5.19,True,Fixed,False,Fixture Report
+OBS_0328,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_038,Capesize,2022-04,Coking Coal,178976,0.57,830874.82,4.78,True,Fixed,False,Fixture Report
+OBS_0329,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_039,Capesize,2022-04,Thermal Coal,184872,0.5,855454.0,3.95,True,Fixed,False,Fixture Report
+OBS_0330,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_039,Capesize,2022-04,Iron Ore,189253,0.48,877131.08,3.76,True,Fixed,False,Fixture Report
+OBS_0331,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_038,Capesize,2022-04,Iron Ore,178100,0.5,920521.25,4.42,True,Fixed,False,Fixture Report
+OBS_0332,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_006,Handysize,2022-04,Rock Phosphate / Fertilizer,28464,0.4,312432.17,8.21,True,Fixed,False,Fixture Report
+OBS_0333,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_012,Supramax,2022-04,Thermal Coal,50017,0.33,418358.93,5.4,True,Fixed,False,Fixture Report
+OBS_0334,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_007,Handysize,2022-04,Thermal Coal,33480,0.29,309468.9,4.94,True,Fixed,False,Fixture Report
+OBS_0335,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_026,Panamax,2022-04,Coastal Thermal Coal,72166,0.19,482877.48,2.3,True,Fixed,False,Fixture Report
+OBS_0336,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_021,Supramax,2022-04,Gypsum / Limestone,49981,0.36,457328.67,6.22,True,Fixed,False,Fixture Report
+OBS_0337,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_018,Supramax,2022-05,Thermal Coal,54379,0.34,428071.42,4.76,True,Fixed,False,Fixture Report
+OBS_0338,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_023,Panamax,2022-05,Thermal Coal,70271,0.38,554382.07,5.01,True,Fixed,False,Fixture Report
+OBS_0339,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_036,Capesize,2022-05,Coking Coal,163572,0.6,885207.08,6.06,True,Fixed,False,Fixture Report
+OBS_0340,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_038,Capesize,2022-05,Coking Coal,185213,0.57,935499.75,4.96,True,Fixed,False,Fixture Report
+OBS_0341,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_034,Capesize,2022-05,Thermal Coal,179935,0.5,870156.13,4.1,True,Fixed,False,Fixture Report
+OBS_0342,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_034,Capesize,2022-05,Iron Ore,172584,0.48,914328.4,4.22,True,Fixed,False,Fixture Report
+OBS_0343,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_039,Capesize,2022-05,Iron Ore,192681,0.48,902296.45,3.82,True,Fixed,False,Fixture Report
+OBS_0344,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_004,Handysize,2022-05,Rock Phosphate / Fertilizer,28963,0.39,317940.8,8.09,True,Fixed,False,Fixture Report
+OBS_0345,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_021,Supramax,2022-05,Thermal Coal,51944,0.34,410787.03,5.27,True,Fixed,False,Fixture Report
+OBS_0346,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_001,Handysize,2022-05,Thermal Coal,33834,0.29,323640.92,5.39,True,Fixed,False,Fixture Report
+OBS_0347,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_026,Panamax,2022-05,Coastal Thermal Coal,73692,0.19,507848.62,2.33,True,Fixed,False,Fixture Report
+OBS_0348,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_018,Supramax,2022-05,Gypsum / Limestone,54504,0.35,432481.73,4.89,True,Fixed,False,Fixture Report
+OBS_0349,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_015,Supramax,2022-06,Thermal Coal,51461,0.35,462287.14,5.88,True,Fixed,False,Fixture Report
+OBS_0350,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_026,Panamax,2022-06,Thermal Coal,72013,0.38,553119.75,5.29,True,Fixed,False,Fixture Report
+OBS_0351,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_034,Capesize,2022-06,Coking Coal,176698,0.57,842816.03,4.92,True,Fixed,False,Fixture Report
+OBS_0352,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_034,Capesize,2022-06,Coking Coal,174469,0.56,851643.9,4.88,True,Fixed,False,Fixture Report
+OBS_0353,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_033,Capesize,2022-06,Thermal Coal,169462,0.51,943090.09,5.36,True,Fixed,False,Fixture Report
+OBS_0354,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_033,Capesize,2022-06,Iron Ore,172376,0.49,923841.36,5.0,True,Fixed,False,Fixture Report
+OBS_0355,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_033,Capesize,2022-06,Iron Ore,171614,0.5,910120.17,5.04,True,Fixed,False,Fixture Report
+OBS_0356,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_005,Handysize,2022-06,Rock Phosphate / Fertilizer,28652,0.41,331602.18,9.52,True,Fixed,False,Fixture Report
+OBS_0357,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_014,Supramax,2022-06,Thermal Coal,51427,0.34,452980.64,5.98,True,Fixed,False,Fixture Report
+OBS_0358,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_002,Handysize,2022-06,Thermal Coal,27720,0.3,344737.68,7.74,True,Fixed,False,Fixture Report
+OBS_0359,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_028,Panamax,2022-06,Coastal Thermal Coal,73612,0.19,585310.28,2.95,True,Fixed,False,Fixture Report
+OBS_0360,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_018,Supramax,2022-06,Gypsum / Limestone,54538,0.35,470507.6,5.38,True,Fixed,False,Fixture Report
+OBS_0361,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_018,Supramax,2022-07,Thermal Coal,57473,0.34,441042.23,4.81,True,Fixed,False,Fixture Report
+OBS_0362,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_028,Panamax,2022-07,Thermal Coal,70059,0.4,579123.18,6.34,True,Fixed,False,Fixture Report
+OBS_0363,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_035,Capesize,2022-07,Coking Coal,182595,0.58,986832.31,5.58,True,Fixed,False,Fixture Report
+OBS_0364,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_034,Capesize,2022-07,Coking Coal,172230,0.56,981535.77,5.36,True,Fixed,False,Fixture Report
+OBS_0365,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_040,Capesize,2022-07,Thermal Coal,168829,0.51,909687.6,4.93,True,Fixed,False,Fixture Report
+OBS_0366,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_036,Capesize,2022-07,Iron Ore,164138,0.5,983732.06,5.61,True,Fixed,False,Fixture Report
+OBS_0367,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_040,Capesize,2022-07,Iron Ore,173977,0.49,950571.78,4.76,True,Fixed,False,Fixture Report
+OBS_0368,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_009,Handysize,2022-07,Rock Phosphate / Fertilizer,35018,0.4,349618.92,7.96,True,Fixed,False,Fixture Report
+OBS_0369,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_012,Supramax,2022-07,Thermal Coal,50979,0.33,476006.49,6.0,True,Fixed,False,Fixture Report
+OBS_0370,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_005,Handysize,2022-07,Thermal Coal,28068,0.3,329539.9,7.08,True,Fixed,False,Fixture Report
+OBS_0371,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_029,Panamax,2022-07,Coastal Thermal Coal,77839,0.19,549422.72,2.44,True,Fixed,False,Fixture Report
+OBS_0372,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_013,Supramax,2022-07,Gypsum / Limestone,54140,0.36,458733.7,5.9,True,Fixed,False,Fixture Report
+OBS_0373,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_015,Supramax,2022-08,Thermal Coal,51271,0.35,480731.91,6.11,True,Fixed,False,Fixture Report
+OBS_0374,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_026,Panamax,2022-08,Thermal Coal,73104,0.38,563829.69,5.33,True,Fixed,False,Fixture Report
+OBS_0375,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_040,Capesize,2022-08,Coking Coal,176657,0.58,979666.87,5.71,True,Fixed,False,Fixture Report
+OBS_0376,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_033,Capesize,2022-08,Coking Coal,170065,0.57,1016223.13,6.29,True,Fixed,False,Fixture Report
+OBS_0377,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_039,Capesize,2022-08,Thermal Coal,189032,0.5,946152.6,4.37,True,Fixed,False,Fixture Report
+OBS_0378,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_039,Capesize,2022-08,Iron Ore,183124,0.48,999333.86,4.46,True,Fixed,False,Fixture Report
+OBS_0379,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_034,Capesize,2022-08,Iron Ore,177693,0.48,969151.9,4.55,True,Fixed,False,Fixture Report
+OBS_0380,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_002,Handysize,2022-08,Rock Phosphate / Fertilizer,28704,0.41,345798.4,10.41,True,Fixed,False,Fixture Report
+OBS_0381,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_012,Supramax,2022-08,Thermal Coal,50182,0.33,448371.62,6.0,True,Fixed,False,Fixture Report
+OBS_0382,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_004,Handysize,2022-08,Thermal Coal,28362,0.29,344007.6,6.76,True,Fixed,False,Fixture Report
+OBS_0383,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_032,Panamax,2022-08,Coastal Thermal Coal,67560,0.19,565602.36,2.81,True,Fixed,False,Fixture Report
+OBS_0384,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_011,Supramax,2022-08,Gypsum / Limestone,54569,0.35,479476.32,5.65,True,Fixed,False,Fixture Report
+OBS_0385,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_022,Supramax,2022-09,Thermal Coal,56428,0.34,493469.53,5.33,True,Fixed,False,Fixture Report
+OBS_0386,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_028,Panamax,2022-09,Thermal Coal,70264,0.4,611397.43,6.61,True,Fixed,False,Fixture Report
+OBS_0387,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_034,Capesize,2022-09,Coking Coal,172090,0.57,1004946.93,5.67,True,Fixed,False,Fixture Report
+OBS_0388,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_040,Capesize,2022-09,Coking Coal,175444,0.56,974743.42,5.59,True,Fixed,False,Fixture Report
+OBS_0389,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_033,Capesize,2022-09,Thermal Coal,171329,0.51,1044624.72,5.7,True,Fixed,False,Fixture Report
+OBS_0390,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_039,Capesize,2022-09,Iron Ore,190149,0.48,1034721.92,4.39,True,Fixed,False,Fixture Report
+OBS_0391,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_033,Capesize,2022-09,Iron Ore,176556,0.5,1022704.59,5.3,True,Fixed,False,Fixture Report
+OBS_0392,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_001,Handysize,2022-09,Rock Phosphate / Fertilizer,33675,0.4,336556.51,8.08,True,Fixed,False,Fixture Report
+OBS_0393,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_012,Supramax,2022-09,Thermal Coal,50281,0.33,498441.13,6.33,True,Fixed,False,Fixture Report
+OBS_0394,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_008,Handysize,2022-09,Thermal Coal,28050,0.29,338826.08,6.97,True,Fixed,False,Fixture Report
+OBS_0395,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_031,Panamax,2022-09,Coastal Thermal Coal,76073,0.19,618499.89,2.72,True,Fixed,False,Fixture Report
+OBS_0396,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_013,Supramax,2022-09,Gypsum / Limestone,52097,0.36,480068.67,6.39,True,Fixed,False,Fixture Report
+OBS_0397,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_016,Supramax,2022-10,Thermal Coal,51355,0.34,482431.12,5.9,True,Fixed,False,Fixture Report
+OBS_0398,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_030,Panamax,2022-10,Thermal Coal,74069,0.39,623888.95,5.82,True,Fixed,False,Fixture Report
+OBS_0399,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_035,Capesize,2022-10,Coking Coal,186788,0.58,977646.0,5.43,True,Fixed,False,Fixture Report
+OBS_0400,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_033,Capesize,2022-10,Coking Coal,176587,0.57,1019246.17,6.0,True,Fixed,False,Fixture Report
+OBS_0401,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_036,Capesize,2022-10,Thermal Coal,170015,0.52,929616.88,5.49,True,Fixed,False,Fixture Report
+OBS_0402,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_040,Capesize,2022-10,Iron Ore,172990,0.49,982486.45,4.83,True,Fixed,False,Fixture Report
+OBS_0403,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_036,Capesize,2022-10,Iron Ore,166950,0.51,997587.92,5.63,True,Fixed,False,Fixture Report
+OBS_0404,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_001,Handysize,2022-10,Rock Phosphate / Fertilizer,35183,0.4,361356.92,7.89,True,Fixed,False,Fixture Report
+OBS_0405,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_013,Supramax,2022-10,Thermal Coal,53119,0.33,453969.19,5.55,True,Fixed,False,Fixture Report
+OBS_0406,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_009,Handysize,2022-10,Thermal Coal,36445,0.29,357781.25,5.68,True,Fixed,False,Fixture Report
+OBS_0407,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_030,Panamax,2022-10,Coastal Thermal Coal,74594,0.19,627380.39,2.86,True,Fixed,False,Fixture Report
+OBS_0408,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_014,Supramax,2022-10,Gypsum / Limestone,52751,0.36,477140.17,6.47,True,Fixed,False,Fixture Report
+OBS_0409,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_019,Supramax,2022-11,Thermal Coal,55941,0.35,464738.42,5.78,True,Fixed,False,Fixture Report
+OBS_0410,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_032,Panamax,2022-11,Thermal Coal,67656,0.38,576940.52,5.71,True,Fixed,False,Fixture Report
+OBS_0411,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_038,Capesize,2022-11,Coking Coal,183281,0.59,914972.72,5.43,True,Fixed,False,Fixture Report
+OBS_0412,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_033,Capesize,2022-11,Coking Coal,172501,0.57,960912.62,6.04,True,Fixed,False,Fixture Report
+OBS_0413,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_036,Capesize,2022-11,Thermal Coal,168176,0.52,1021812.27,5.94,True,Fixed,False,Fixture Report
+OBS_0414,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_033,Capesize,2022-11,Iron Ore,172646,0.49,954933.93,5.17,True,Fixed,False,Fixture Report
+OBS_0415,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_038,Capesize,2022-11,Iron Ore,182523,0.5,967222.11,4.75,True,Fixed,False,Fixture Report
+OBS_0416,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_001,Handysize,2022-11,Rock Phosphate / Fertilizer,33615,0.4,345773.02,8.22,True,Fixed,False,Fixture Report
+OBS_0417,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_021,Supramax,2022-11,Thermal Coal,49873,0.34,452171.14,6.2,True,Fixed,False,Fixture Report
+OBS_0418,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_004,Handysize,2022-11,Thermal Coal,28826,0.29,344374.44,6.68,True,Fixed,False,Fixture Report
+OBS_0419,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_026,Panamax,2022-11,Coastal Thermal Coal,75627,0.19,578861.41,2.61,True,Fixed,False,Fixture Report
+OBS_0420,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_021,Supramax,2022-11,Gypsum / Limestone,51322,0.36,477906.69,6.69,True,Fixed,False,Fixture Report
+OBS_0421,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_021,Supramax,2022-12,Thermal Coal,49453,0.35,482771.8,6.97,True,Fixed,False,Fixture Report
+OBS_0422,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_029,Panamax,2022-12,Thermal Coal,76406,0.38,633984.93,5.62,True,Fixed,False,Fixture Report
+OBS_0423,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_038,Capesize,2022-12,Coking Coal,175694,0.59,943652.11,5.88,True,Fixed,False,Fixture Report
+OBS_0424,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_034,Capesize,2022-12,Coking Coal,171610,0.56,1010267.58,5.67,True,Fixed,False,Fixture Report
+OBS_0425,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_036,Capesize,2022-12,Thermal Coal,167795,0.52,964333.04,5.9,True,Fixed,False,Fixture Report
+OBS_0426,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_034,Capesize,2022-12,Iron Ore,171403,0.48,982018.08,4.8,True,Fixed,False,Fixture Report
+OBS_0427,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_039,Capesize,2022-12,Iron Ore,183979,0.48,998961.55,4.59,True,Fixed,False,Fixture Report
+OBS_0428,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_004,Handysize,2022-12,Rock Phosphate / Fertilizer,28281,0.39,328702.83,9.24,True,Fixed,False,Fixture Report
+OBS_0429,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_020,Supramax,2022-12,Thermal Coal,49079,0.33,471892.91,6.31,True,Fixed,False,Fixture Report
+OBS_0430,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_001,Handysize,2022-12,Thermal Coal,34367,0.29,323583.08,5.84,True,Fixed,False,Fixture Report
+OBS_0431,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_027,Panamax,2022-12,Coastal Thermal Coal,77236,0.19,597379.17,2.89,True,Fixed,False,Fixture Report
+OBS_0432,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_020,Supramax,2022-12,Gypsum / Limestone,50671,0.36,470114.28,6.59,True,Fixed,False,Fixture Report
+OBS_0433,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_013,Supramax,2023-01,Thermal Coal,52947,0.35,469061.14,6.11,True,Fixed,False,Fixture Report
+OBS_0434,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_031,Panamax,2023-01,Thermal Coal,74563,0.38,574933.86,5.42,True,Fixed,False,Fixture Report
+OBS_0435,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_039,Capesize,2023-01,Coking Coal,191864,0.57,962664.45,5.02,True,Fixed,False,Fixture Report
+OBS_0436,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_039,Capesize,2023-01,Coking Coal,185955,0.56,888610.21,4.82,True,Fixed,False,Fixture Report
+OBS_0437,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_038,Capesize,2023-01,Thermal Coal,181439,0.51,903740.72,4.78,True,Fixed,False,Fixture Report
+OBS_0438,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_040,Capesize,2023-01,Iron Ore,166871,0.49,876045.21,4.8,True,Fixed,False,Fixture Report
+OBS_0439,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_033,Capesize,2023-01,Iron Ore,176804,0.5,931173.97,5.07,True,Fixed,False,Fixture Report
+OBS_0440,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_001,Handysize,2023-01,Rock Phosphate / Fertilizer,33179,0.4,334921.2,8.25,True,Fixed,False,Fixture Report
+OBS_0441,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_019,Supramax,2023-01,Thermal Coal,54649,0.33,475334.63,5.71,True,Fixed,False,Fixture Report
+OBS_0442,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_008,Handysize,2023-01,Thermal Coal,27035,0.29,330020.7,7.19,True,Fixed,False,Fixture Report
+OBS_0443,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_027,Panamax,2023-01,Coastal Thermal Coal,77356,0.19,574691.16,2.79,True,Fixed,False,Fixture Report
+OBS_0444,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_020,Supramax,2023-01,Gypsum / Limestone,51090,0.36,451095.73,6.3,True,Fixed,False,Fixture Report
+OBS_0445,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_017,Supramax,2023-02,Thermal Coal,53542,0.35,449164.84,6.43,True,Fixed,False,Fixture Report
+OBS_0446,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_024,Panamax,2023-02,Thermal Coal,76976,0.38,604694.75,5.42,True,Fixed,False,Fixture Report
+OBS_0447,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_039,Capesize,2023-02,Coking Coal,191482,0.57,920714.34,5.05,True,Fixed,False,Fixture Report
+OBS_0448,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_036,Capesize,2023-02,Coking Coal,169591,0.58,899213.8,6.39,True,Fixed,False,Fixture Report
+OBS_0449,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_040,Capesize,2023-02,Thermal Coal,169845,0.51,976552.47,5.37,True,Fixed,False,Fixture Report
+OBS_0450,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_033,Capesize,2023-02,Iron Ore,168896,0.49,885848.53,5.28,True,Fixed,False,Fixture Report
+OBS_0451,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_036,Capesize,2023-02,Iron Ore,164610,0.51,879251.09,5.66,True,Fixed,False,Fixture Report
+OBS_0452,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_002,Handysize,2023-02,Rock Phosphate / Fertilizer,27417,0.41,352125.83,11.5,True,Fixed,False,Fixture Report
+OBS_0453,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_022,Supramax,2023-02,Thermal Coal,56719,0.32,485285.95,5.16,True,Fixed,False,Fixture Report
+OBS_0454,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_004,Handysize,2023-02,Thermal Coal,29420,0.29,342033.45,6.77,True,Fixed,False,Fixture Report
+OBS_0455,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_024,Panamax,2023-02,Coastal Thermal Coal,74710,0.19,571568.25,2.7,True,Fixed,False,Fixture Report
+OBS_0456,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_011,Supramax,2023-02,Gypsum / Limestone,53973,0.35,450549.15,5.75,True,Fixed,False,Fixture Report
+OBS_0457,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_017,Supramax,2023-03,Thermal Coal,55403,0.35,454952.04,6.2,True,Fixed,False,Fixture Report
+OBS_0458,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_023,Panamax,2023-03,Thermal Coal,70917,0.38,583544.21,5.59,True,Fixed,False,Fixture Report
+OBS_0459,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_040,Capesize,2023-03,Coking Coal,169860,0.58,946822.73,6.01,True,Fixed,False,Fixture Report
+OBS_0460,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_037,Capesize,2023-03,Coking Coal,188690,0.56,859670.21,4.85,True,Fixed,False,Fixture Report
+OBS_0461,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_035,Capesize,2023-03,Thermal Coal,186041,0.51,897116.87,4.75,True,Fixed,False,Fixture Report
+OBS_0462,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_039,Capesize,2023-03,Iron Ore,192260,0.48,930801.39,4.2,True,Fixed,False,Fixture Report
+OBS_0463,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_039,Capesize,2023-03,Iron Ore,186583,0.48,846986.25,4.17,True,Fixed,False,Fixture Report
+OBS_0464,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_010,Handysize,2023-03,Rock Phosphate / Fertilizer,32247,0.4,338074.9,8.63,True,Fixed,False,Fixture Report
+OBS_0465,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_019,Supramax,2023-03,Thermal Coal,56092,0.33,446588.79,5.53,True,Fixed,False,Fixture Report
+OBS_0466,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_003,Handysize,2023-03,Thermal Coal,28795,0.3,349914.47,8.06,True,Fixed,False,Fixture Report
+OBS_0467,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_031,Panamax,2023-03,Coastal Thermal Coal,78643,0.19,589864.38,2.64,True,Fixed,False,Fixture Report
+OBS_0468,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_017,Supramax,2023-03,Gypsum / Limestone,53798,0.36,447384.68,6.49,True,Fixed,False,Fixture Report
+OBS_0469,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_016,Supramax,2023-04,Thermal Coal,49740,0.34,481382.9,6.37,True,Fixed,False,Fixture Report
+OBS_0470,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_026,Panamax,2023-04,Thermal Coal,71839,0.38,585621.68,5.72,True,Fixed,False,Fixture Report
+OBS_0471,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_037,Capesize,2023-04,Coking Coal,182830,0.57,877004.9,5.2,True,Fixed,False,Fixture Report
+OBS_0472,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_039,Capesize,2023-04,Coking Coal,189319,0.56,905818.07,4.9,True,Fixed,False,Fixture Report
+OBS_0473,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_037,Capesize,2023-04,Thermal Coal,182020,0.5,820209.33,4.41,True,Fixed,False,Fixture Report
+OBS_0474,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_039,Capesize,2023-04,Iron Ore,183095,0.48,913166.27,4.38,True,Fixed,False,Fixture Report
+OBS_0475,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_037,Capesize,2023-04,Iron Ore,190010,0.49,881525.59,4.25,True,Fixed,False,Fixture Report
+OBS_0476,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_003,Handysize,2023-04,Rock Phosphate / Fertilizer,29672,0.41,341233.41,10.64,True,Fixed,False,Fixture Report
+OBS_0477,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_022,Supramax,2023-04,Thermal Coal,55815,0.32,481389.12,5.2,True,Fixed,False,Fixture Report
+OBS_0478,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_005,Handysize,2023-04,Thermal Coal,28031,0.3,329914.4,7.48,True,Fixed,False,Fixture Report
+OBS_0479,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_023,Panamax,2023-04,Coastal Thermal Coal,70766,0.19,548746.32,2.71,True,Fixed,False,Fixture Report
+OBS_0480,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_018,Supramax,2023-04,Gypsum / Limestone,54689,0.35,471683.01,5.62,True,Fixed,False,Fixture Report
+OBS_0481,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_019,Supramax,2023-05,Thermal Coal,54117,0.35,433638.05,6.08,True,Fixed,False,Fixture Report
+OBS_0482,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_030,Panamax,2023-05,Thermal Coal,75190,0.39,566843.25,5.79,True,Fixed,False,Fixture Report
+OBS_0483,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_038,Capesize,2023-05,Coking Coal,177318,0.59,798891.92,5.49,True,Fixed,False,Fixture Report
+OBS_0484,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_037,Capesize,2023-05,Coking Coal,188156,0.56,793179.88,4.75,True,Fixed,False,Fixture Report
+OBS_0485,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_038,Capesize,2023-05,Thermal Coal,180539,0.51,810635.56,4.74,True,Fixed,False,Fixture Report
+OBS_0486,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_039,Capesize,2023-05,Iron Ore,189467,0.48,855587.64,4.15,True,Fixed,False,Fixture Report
+OBS_0487,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_035,Capesize,2023-05,Iron Ore,184448,0.49,785162.54,4.43,True,Fixed,False,Fixture Report
+OBS_0488,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_010,Handysize,2023-05,Rock Phosphate / Fertilizer,31745,0.4,321711.94,8.72,True,Fixed,False,Fixture Report
+OBS_0489,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_011,Supramax,2023-05,Thermal Coal,53990,0.33,405279.14,5.12,True,Fixed,False,Fixture Report
+OBS_0490,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_005,Handysize,2023-05,Thermal Coal,28172,0.3,335007.81,7.63,True,Fixed,False,Fixture Report
+OBS_0491,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_023,Panamax,2023-05,Coastal Thermal Coal,69924,0.19,593150.75,2.91,True,Fixed,False,Fixture Report
+OBS_0492,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_017,Supramax,2023-05,Gypsum / Limestone,53567,0.36,406497.95,6.36,True,Fixed,False,Fixture Report
+OBS_0493,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_017,Supramax,2023-06,Thermal Coal,55772,0.35,445119.04,6.2,True,Fixed,False,Fixture Report
+OBS_0494,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_023,Panamax,2023-06,Thermal Coal,71539,0.38,557736.2,5.48,True,Fixed,False,Fixture Report
+OBS_0495,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_039,Capesize,2023-06,Coking Coal,184420,0.57,861857.35,5.09,True,Fixed,False,Fixture Report
+OBS_0496,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_038,Capesize,2023-06,Coking Coal,183241,0.57,849465.45,5.31,True,Fixed,False,Fixture Report
+OBS_0497,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_040,Capesize,2023-06,Thermal Coal,169612,0.51,839059.75,5.01,True,Fixed,False,Fixture Report
+OBS_0498,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_040,Capesize,2023-06,Iron Ore,170598,0.49,789390.05,4.63,True,Fixed,False,Fixture Report
+OBS_0499,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_035,Capesize,2023-06,Iron Ore,186614,0.49,793896.0,4.39,True,Fixed,False,Fixture Report
+OBS_0500,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_005,Handysize,2023-06,Rock Phosphate / Fertilizer,28997,0.41,318738.61,9.88,True,Fixed,False,Fixture Report
+OBS_0501,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_017,Supramax,2023-06,Thermal Coal,53846,0.34,447599.32,6.1,True,Fixed,False,Fixture Report
+OBS_0502,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_003,Handysize,2023-06,Thermal Coal,30190,0.3,329757.49,7.62,True,Fixed,False,Fixture Report
+OBS_0503,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_023,Panamax,2023-06,Coastal Thermal Coal,72077,0.19,572843.35,2.76,True,Fixed,False,Fixture Report
+OBS_0504,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_013,Supramax,2023-06,Gypsum / Limestone,53950,0.36,464022.13,6.36,True,Fixed,False,Fixture Report
+OBS_0505,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_022,Supramax,2023-07,Thermal Coal,56088,0.34,406084.02,5.01,True,Fixed,False,Fixture Report
+OBS_0506,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_029,Panamax,2023-07,Thermal Coal,76623,0.38,555274.61,5.28,True,Fixed,False,Fixture Report
+OBS_0507,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_036,Capesize,2023-07,Coking Coal,172578,0.6,715913.54,5.8,True,Fixed,False,Fixture Report
+OBS_0508,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_035,Capesize,2023-07,Coking Coal,184132,0.57,796466.18,5.07,True,Fixed,False,Fixture Report
+OBS_0509,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_039,Capesize,2023-07,Thermal Coal,183624,0.5,763974.63,4.16,True,Fixed,False,Fixture Report
+OBS_0510,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_035,Capesize,2023-07,Iron Ore,186593,0.49,715415.14,4.08,True,Fixed,False,Fixture Report
+OBS_0511,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_034,Capesize,2023-07,Iron Ore,178573,0.48,739367.83,4.06,True,Fixed,False,Fixture Report
+OBS_0512,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_005,Handysize,2023-07,Rock Phosphate / Fertilizer,28950,0.41,337468.24,10.05,True,Fixed,False,Fixture Report
+OBS_0513,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_020,Supramax,2023-07,Thermal Coal,52042,0.33,405341.86,5.61,True,Fixed,False,Fixture Report
+OBS_0514,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_004,Handysize,2023-07,Thermal Coal,29503,0.29,332619.22,6.64,True,Fixed,False,Fixture Report
+OBS_0515,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_023,Panamax,2023-07,Coastal Thermal Coal,69855,0.19,545281.27,2.75,True,Fixed,False,Fixture Report
+OBS_0516,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_012,Supramax,2023-07,Gypsum / Limestone,49802,0.36,411297.2,6.53,True,Fixed,False,Fixture Report
+OBS_0517,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_018,Supramax,2023-08,Thermal Coal,54919,0.34,395050.5,5.11,True,Fixed,False,Fixture Report
+OBS_0518,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_023,Panamax,2023-08,Thermal Coal,68750,0.38,530435.5,5.59,True,Fixed,False,Fixture Report
+OBS_0519,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_039,Capesize,2023-08,Coking Coal,185551,0.57,799074.6,4.91,True,Fixed,False,Fixture Report
+OBS_0520,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_033,Capesize,2023-08,Coking Coal,169485,0.57,760841.56,5.8,True,Fixed,False,Fixture Report
+OBS_0521,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_038,Capesize,2023-08,Thermal Coal,180227,0.51,805232.98,4.75,True,Fixed,False,Fixture Report
+OBS_0522,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_034,Capesize,2023-08,Iron Ore,174266,0.48,789842.55,4.32,True,Fixed,False,Fixture Report
+OBS_0523,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_036,Capesize,2023-08,Iron Ore,171949,0.51,788906.21,5.23,True,Fixed,False,Fixture Report
+OBS_0524,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_009,Handysize,2023-08,Rock Phosphate / Fertilizer,34731,0.4,296487.97,8.04,True,Fixed,False,Fixture Report
+OBS_0525,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_018,Supramax,2023-08,Thermal Coal,57227,0.32,390118.64,4.62,True,Fixed,False,Fixture Report
+OBS_0526,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_009,Handysize,2023-08,Thermal Coal,36194,0.29,315525.14,5.81,True,Fixed,False,Fixture Report
+OBS_0527,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_026,Panamax,2023-08,Coastal Thermal Coal,75742,0.19,536809.37,2.63,True,Fixed,False,Fixture Report
+OBS_0528,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_017,Supramax,2023-08,Gypsum / Limestone,56728,0.36,406481.23,6.04,True,Fixed,False,Fixture Report
+OBS_0529,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_022,Supramax,2023-09,Thermal Coal,57991,0.34,410076.63,4.8,True,Fixed,False,Fixture Report
+OBS_0530,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_031,Panamax,2023-09,Thermal Coal,76160,0.38,532244.65,5.17,True,Fixed,False,Fixture Report
+OBS_0531,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_034,Capesize,2023-09,Coking Coal,180578,0.57,844034.17,5.0,True,Fixed,False,Fixture Report
+OBS_0532,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_033,Capesize,2023-09,Coking Coal,177393,0.57,789824.35,5.45,True,Fixed,False,Fixture Report
+OBS_0533,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_039,Capesize,2023-09,Thermal Coal,186536,0.5,820438.21,4.19,True,Fixed,False,Fixture Report
+OBS_0534,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_035,Capesize,2023-09,Iron Ore,178659,0.49,760409.21,4.33,True,Fixed,False,Fixture Report
+OBS_0535,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_039,Capesize,2023-09,Iron Ore,185729,0.48,777329.77,3.97,True,Fixed,False,Fixture Report
+OBS_0536,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_001,Handysize,2023-09,Rock Phosphate / Fertilizer,33774,0.4,302033.4,7.84,True,Fixed,False,Fixture Report
+OBS_0537,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_021,Supramax,2023-09,Thermal Coal,49548,0.34,390952.44,5.96,True,Fixed,False,Fixture Report
+OBS_0538,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_004,Handysize,2023-09,Thermal Coal,29737,0.29,309303.12,6.27,True,Fixed,False,Fixture Report
+OBS_0539,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_032,Panamax,2023-09,Coastal Thermal Coal,69137,0.19,535524.72,2.73,True,Fixed,False,Fixture Report
+OBS_0540,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_015,Supramax,2023-09,Gypsum / Limestone,51224,0.35,437365.91,6.11,True,Fixed,False,Fixture Report
+OBS_0541,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_020,Supramax,2023-10,Thermal Coal,51526,0.35,390034.8,5.9,True,Fixed,False,Fixture Report
+OBS_0542,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_031,Panamax,2023-10,Thermal Coal,75854,0.38,540699.15,5.33,True,Fixed,False,Fixture Report
+OBS_0543,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_036,Capesize,2023-10,Coking Coal,172585,0.6,734391.91,5.9,True,Fixed,False,Fixture Report
+OBS_0544,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_040,Capesize,2023-10,Coking Coal,173402,0.56,707817.45,5.0,True,Fixed,False,Fixture Report
+OBS_0545,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_033,Capesize,2023-10,Thermal Coal,179900,0.51,713536.16,4.69,True,Fixed,False,Fixture Report
+OBS_0546,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_038,Capesize,2023-10,Iron Ore,184903,0.49,750515.71,4.23,True,Fixed,False,Fixture Report
+OBS_0547,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_036,Capesize,2023-10,Iron Ore,168938,0.51,738398.59,5.1,True,Fixed,False,Fixture Report
+OBS_0548,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_004,Handysize,2023-10,Rock Phosphate / Fertilizer,28329,0.39,293882.81,8.91,True,Fixed,False,Fixture Report
+OBS_0549,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_012,Supramax,2023-10,Thermal Coal,50410,0.33,394811.43,5.9,True,Fixed,False,Fixture Report
+OBS_0550,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_002,Handysize,2023-10,Thermal Coal,28497,0.3,300252.12,7.55,True,Fixed,False,Fixture Report
+OBS_0551,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_027,Panamax,2023-10,Coastal Thermal Coal,73723,0.19,546283.63,2.95,True,Fixed,False,Fixture Report
+OBS_0552,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_019,Supramax,2023-10,Gypsum / Limestone,56991,0.36,431306.14,5.84,True,Fixed,False,Fixture Report
+OBS_0553,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_019,Supramax,2023-11,Thermal Coal,57389,0.35,387621.61,5.37,True,Fixed,False,Fixture Report
+OBS_0554,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_032,Panamax,2023-11,Thermal Coal,69190,0.38,528834.48,5.5,True,Fixed,False,Fixture Report
+OBS_0555,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_040,Capesize,2023-11,Coking Coal,174320,0.58,718892.8,5.12,True,Fixed,False,Fixture Report
+OBS_0556,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_039,Capesize,2023-11,Coking Coal,191308,0.56,725242.2,4.34,True,Fixed,False,Fixture Report
+OBS_0557,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_037,Capesize,2023-11,Thermal Coal,182229,0.5,753371.89,4.23,True,Fixed,False,Fixture Report
+OBS_0558,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_040,Capesize,2023-11,Iron Ore,173175,0.49,757252.18,4.42,True,Fixed,False,Fixture Report
+OBS_0559,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_037,Capesize,2023-11,Iron Ore,180645,0.49,784017.47,4.22,True,Fixed,False,Fixture Report
+OBS_0560,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_004,Handysize,2023-11,Rock Phosphate / Fertilizer,28394,0.39,295451.99,8.87,True,Fixed,False,Fixture Report
+OBS_0561,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_017,Supramax,2023-11,Thermal Coal,56341,0.34,425465.62,5.64,True,Fixed,False,Fixture Report
+OBS_0562,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_009,Handysize,2023-11,Thermal Coal,36165,0.29,320682.63,5.74,True,Fixed,False,Fixture Report
+OBS_0563,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_027,Panamax,2023-11,Coastal Thermal Coal,76648,0.19,516069.61,2.75,True,Fixed,False,Fixture Report
+OBS_0564,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_016,Supramax,2023-11,Gypsum / Limestone,49968,0.35,398976.32,5.93,True,Fixed,False,Fixture Report
+OBS_0565,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_017,Supramax,2023-12,Thermal Coal,54511,0.35,397239.79,5.85,True,Fixed,False,Fixture Report
+OBS_0566,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_023,Panamax,2023-12,Thermal Coal,71698,0.38,546874.49,5.27,True,Fixed,False,Fixture Report
+OBS_0567,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_038,Capesize,2023-12,Coking Coal,174909,0.59,748656.19,5.23,True,Fixed,False,Fixture Report
+OBS_0568,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_035,Capesize,2023-12,Coking Coal,183870,0.57,735265.06,4.8,True,Fixed,False,Fixture Report
+OBS_0569,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_038,Capesize,2023-12,Thermal Coal,183842,0.51,774216.82,4.41,True,Fixed,False,Fixture Report
+OBS_0570,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_035,Capesize,2023-12,Iron Ore,181494,0.49,783258.24,4.3,True,Fixed,False,Fixture Report
+OBS_0571,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_037,Capesize,2023-12,Iron Ore,189421,0.49,760520.32,3.9,True,Fixed,False,Fixture Report
+OBS_0572,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_007,Handysize,2023-12,Rock Phosphate / Fertilizer,34428,0.39,314983.17,7.24,True,Fixed,False,Fixture Report
+OBS_0573,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_021,Supramax,2023-12,Thermal Coal,50289,0.34,427616.61,6.1,True,Fixed,False,Fixture Report
+OBS_0574,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_001,Handysize,2023-12,Thermal Coal,34880,0.29,318460.37,5.68,True,Fixed,False,Fixture Report
+OBS_0575,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_026,Panamax,2023-12,Coastal Thermal Coal,75321,0.19,571260.87,2.64,True,Fixed,False,Fixture Report
+OBS_0576,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_021,Supramax,2023-12,Gypsum / Limestone,51743,0.36,425573.91,6.38,True,Fixed,False,Fixture Report
+OBS_0577,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_020,Supramax,2024-01,Thermal Coal,51236,0.35,420824.43,6.02,True,Fixed,False,Fixture Report
+OBS_0578,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_027,Panamax,2024-01,Thermal Coal,76468,0.39,530492.93,5.64,True,Fixed,False,Fixture Report
+OBS_0579,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_034,Capesize,2024-01,Coking Coal,172444,0.57,819133.79,5.15,True,Fixed,False,Fixture Report
+OBS_0580,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_039,Capesize,2024-01,Coking Coal,191985,0.56,739081.32,4.3,True,Fixed,False,Fixture Report
+OBS_0581,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_033,Capesize,2024-01,Thermal Coal,178040,0.51,748445.83,4.74,True,Fixed,False,Fixture Report
+OBS_0582,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_033,Capesize,2024-01,Iron Ore,172520,0.49,806221.74,4.85,True,Fixed,False,Fixture Report
+OBS_0583,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_035,Capesize,2024-01,Iron Ore,177744,0.49,813220.85,4.54,True,Fixed,False,Fixture Report
+OBS_0584,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_005,Handysize,2024-01,Rock Phosphate / Fertilizer,28782,0.41,319954.62,9.7,True,Fixed,False,Fixture Report
+OBS_0585,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_020,Supramax,2024-01,Thermal Coal,48980,0.33,401393.21,5.84,True,Fixed,False,Fixture Report
+OBS_0586,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_003,Handysize,2024-01,Thermal Coal,29703,0.3,338126.55,7.61,True,Fixed,False,Fixture Report
+OBS_0587,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_031,Panamax,2024-01,Coastal Thermal Coal,76908,0.19,500038.08,2.45,True,Fixed,False,Fixture Report
+OBS_0588,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_016,Supramax,2024-01,Gypsum / Limestone,51779,0.35,413896.49,5.73,True,Fixed,False,Fixture Report
+OBS_0589,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_021,Supramax,2024-02,Thermal Coal,51978,0.35,398865.47,5.86,True,Fixed,False,Fixture Report
+OBS_0590,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_031,Panamax,2024-02,Thermal Coal,77544,0.38,529300.33,4.92,True,Fixed,False,Fixture Report
+OBS_0591,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_034,Capesize,2024-02,Coking Coal,181594,0.57,774954.54,4.62,True,Fixed,False,Fixture Report
+OBS_0592,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_033,Capesize,2024-02,Coking Coal,175866,0.57,830897.36,5.46,True,Fixed,False,Fixture Report
+OBS_0593,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_034,Capesize,2024-02,Thermal Coal,171806,0.5,831390.32,4.43,True,Fixed,False,Fixture Report
+OBS_0594,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_033,Capesize,2024-02,Iron Ore,176488,0.49,748977.86,4.44,True,Fixed,False,Fixture Report
+OBS_0595,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_033,Capesize,2024-02,Iron Ore,172135,0.5,809677.32,4.78,True,Fixed,False,Fixture Report
+OBS_0596,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_008,Handysize,2024-02,Rock Phosphate / Fertilizer,27121,0.4,323980.68,9.54,True,Fixed,False,Fixture Report
+OBS_0597,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_021,Supramax,2024-02,Thermal Coal,50549,0.34,424681.94,5.88,True,Fixed,False,Fixture Report
+OBS_0598,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_005,Handysize,2024-02,Thermal Coal,27353,0.3,335120.73,7.41,True,Fixed,False,Fixture Report
+OBS_0599,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_031,Panamax,2024-02,Coastal Thermal Coal,78589,0.19,556326.67,2.47,True,Fixed,False,Fixture Report
+OBS_0600,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_019,Supramax,2024-02,Gypsum / Limestone,56509,0.36,400026.14,5.4,True,Fixed,False,Fixture Report
+OBS_0601,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_022,Supramax,2024-03,Thermal Coal,57958,0.34,413789.28,4.8,True,Fixed,False,Fixture Report
+OBS_0602,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_026,Panamax,2024-03,Thermal Coal,71385,0.38,522447.3,5.33,True,Fixed,False,Fixture Report
+OBS_0603,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_034,Capesize,2024-03,Coking Coal,176198,0.57,877957.37,5.21,True,Fixed,False,Fixture Report
+OBS_0604,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_039,Capesize,2024-03,Coking Coal,189705,0.56,844843.71,4.64,True,Fixed,False,Fixture Report
+OBS_0605,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_034,Capesize,2024-03,Thermal Coal,173752,0.5,901092.41,4.68,True,Fixed,False,Fixture Report
+OBS_0606,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_035,Capesize,2024-03,Iron Ore,180856,0.49,845403.35,4.47,True,Fixed,False,Fixture Report
+OBS_0607,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_037,Capesize,2024-03,Iron Ore,181508,0.49,880447.45,4.38,True,Fixed,False,Fixture Report
+OBS_0608,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_003,Handysize,2024-03,Rock Phosphate / Fertilizer,29849,0.41,320680.0,10.1,True,Fixed,False,Fixture Report
+OBS_0609,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_022,Supramax,2024-03,Thermal Coal,55472,0.32,448328.89,4.95,True,Fixed,False,Fixture Report
+OBS_0610,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_001,Handysize,2024-03,Thermal Coal,34565,0.29,322769.92,5.75,True,Fixed,False,Fixture Report
+OBS_0611,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_027,Panamax,2024-03,Coastal Thermal Coal,78095,0.19,511395.43,2.63,True,Fixed,False,Fixture Report
+OBS_0612,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_014,Supramax,2024-03,Gypsum / Limestone,51297,0.36,462184.32,6.77,True,Fixed,False,Fixture Report
+OBS_0613,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_021,Supramax,2024-04,Thermal Coal,50792,0.35,453381.38,6.38,True,Fixed,False,Fixture Report
+OBS_0614,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_031,Panamax,2024-04,Thermal Coal,75756,0.38,527517.63,5.04,True,Fixed,False,Fixture Report
+OBS_0615,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_040,Capesize,2024-04,Coking Coal,177518,0.58,854417.75,5.26,True,Fixed,False,Fixture Report
+OBS_0616,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_033,Capesize,2024-04,Coking Coal,178808,0.57,835823.66,5.39,True,Fixed,False,Fixture Report
+OBS_0617,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_040,Capesize,2024-04,Thermal Coal,168956,0.51,815214.33,4.7,True,Fixed,False,Fixture Report
+OBS_0618,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_036,Capesize,2024-04,Iron Ore,169413,0.5,850187.71,5.1,True,Fixed,False,Fixture Report
+OBS_0619,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_033,Capesize,2024-04,Iron Ore,178474,0.5,861038.99,4.76,True,Fixed,False,Fixture Report
+OBS_0620,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_007,Handysize,2024-04,Rock Phosphate / Fertilizer,35066,0.39,310553.54,6.88,True,Fixed,False,Fixture Report
+OBS_0621,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_016,Supramax,2024-04,Thermal Coal,52556,0.33,460770.4,5.39,True,Fixed,False,Fixture Report
+OBS_0622,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_002,Handysize,2024-04,Thermal Coal,28482,0.3,336085.21,7.53,True,Fixed,False,Fixture Report
+OBS_0623,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_031,Panamax,2024-04,Coastal Thermal Coal,77544,0.19,550420.85,2.49,True,Fixed,False,Fixture Report
+OBS_0624,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_015,Supramax,2024-04,Gypsum / Limestone,50931,0.35,420950.6,5.86,True,Fixed,False,Fixture Report
+OBS_0625,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_020,Supramax,2024-05,Thermal Coal,51965,0.35,456372.12,5.94,True,Fixed,False,Fixture Report
+OBS_0626,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_029,Panamax,2024-05,Thermal Coal,79519,0.38,544876.51,4.79,True,Fixed,False,Fixture Report
+OBS_0627,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_033,Capesize,2024-05,Coking Coal,170069,0.59,886367.65,5.93,True,Fixed,False,Fixture Report
+OBS_0628,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_034,Capesize,2024-05,Coking Coal,178438,0.56,920349.93,4.99,True,Fixed,False,Fixture Report
+OBS_0629,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_039,Capesize,2024-05,Thermal Coal,183865,0.5,927175.86,4.38,True,Fixed,False,Fixture Report
+OBS_0630,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_039,Capesize,2024-05,Iron Ore,182216,0.48,937241.44,4.27,True,Fixed,False,Fixture Report
+OBS_0631,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_036,Capesize,2024-05,Iron Ore,165271,0.51,961252.18,5.57,True,Fixed,False,Fixture Report
+OBS_0632,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_007,Handysize,2024-05,Rock Phosphate / Fertilizer,33621,0.39,335856.54,7.39,True,Fixed,False,Fixture Report
+OBS_0633,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_016,Supramax,2024-05,Thermal Coal,49718,0.33,426980.44,5.41,True,Fixed,False,Fixture Report
+OBS_0634,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_008,Handysize,2024-05,Thermal Coal,27706,0.29,336858.15,6.92,True,Fixed,False,Fixture Report
+OBS_0635,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_024,Panamax,2024-05,Coastal Thermal Coal,76377,0.19,532434.91,2.41,True,Fixed,False,Fixture Report
+OBS_0636,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_021,Supramax,2024-05,Gypsum / Limestone,51699,0.36,469521.72,6.46,True,Fixed,False,Fixture Report
+OBS_0637,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_015,Supramax,2024-06,Thermal Coal,53114,0.35,448471.07,5.69,True,Fixed,False,Fixture Report
+OBS_0638,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_032,Panamax,2024-06,Thermal Coal,69569,0.38,546232.19,5.37,True,Fixed,False,Fixture Report
+OBS_0639,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_033,Capesize,2024-06,Coking Coal,171473,0.59,993655.1,6.34,True,Fixed,False,Fixture Report
+OBS_0640,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_039,Capesize,2024-06,Coking Coal,183163,0.56,938702.74,5.01,True,Fixed,False,Fixture Report
+OBS_0641,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_034,Capesize,2024-06,Thermal Coal,177672,0.5,961637.57,4.67,True,Fixed,False,Fixture Report
+OBS_0642,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_034,Capesize,2024-06,Iron Ore,177006,0.48,883599.1,4.28,True,Fixed,False,Fixture Report
+OBS_0643,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_034,Capesize,2024-06,Iron Ore,174353,0.48,940823.38,4.56,True,Fixed,False,Fixture Report
+OBS_0644,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_009,Handysize,2024-06,Rock Phosphate / Fertilizer,34400,0.4,335003.93,8.07,True,Fixed,False,Fixture Report
+OBS_0645,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_021,Supramax,2024-06,Thermal Coal,49519,0.34,450690.35,6.21,True,Fixed,False,Fixture Report
+OBS_0646,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_008,Handysize,2024-06,Thermal Coal,27714,0.29,326083.91,6.91,True,Fixed,False,Fixture Report
+OBS_0647,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_031,Panamax,2024-06,Coastal Thermal Coal,76592,0.19,586454.05,2.62,True,Fixed,False,Fixture Report
+OBS_0648,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_022,Supramax,2024-06,Gypsum / Limestone,58114,0.35,457615.5,5.07,True,Fixed,False,Fixture Report
+OBS_0649,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_015,Supramax,2024-07,Thermal Coal,51053,0.35,459844.52,5.83,True,Fixed,False,Fixture Report
+OBS_0650,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_028,Panamax,2024-07,Thermal Coal,72709,0.4,588166.63,6.07,True,Fixed,False,Fixture Report
+OBS_0651,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_038,Capesize,2024-07,Coking Coal,174336,0.59,1071948.56,6.06,True,Fixed,False,Fixture Report
+OBS_0652,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_038,Capesize,2024-07,Coking Coal,174572,0.57,1023675.87,5.73,True,Fixed,False,Fixture Report
+OBS_0653,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_033,Capesize,2024-07,Thermal Coal,176726,0.51,1063973.54,5.42,True,Fixed,False,Fixture Report
+OBS_0654,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_036,Capesize,2024-07,Iron Ore,170089,0.5,1055509.84,5.55,True,Fixed,False,Fixture Report
+OBS_0655,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_035,Capesize,2024-07,Iron Ore,179839,0.49,1057110.76,4.93,True,Fixed,False,Fixture Report
+OBS_0656,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_010,Handysize,2024-07,Rock Phosphate / Fertilizer,31849,0.4,375467.08,8.66,True,Fixed,False,Fixture Report
+OBS_0657,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_016,Supramax,2024-07,Thermal Coal,51493,0.33,501133.14,5.62,True,Fixed,False,Fixture Report
+OBS_0658,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_001,Handysize,2024-07,Thermal Coal,34118,0.29,364659.3,5.9,True,Fixed,False,Fixture Report
+OBS_0659,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_027,Panamax,2024-07,Coastal Thermal Coal,76017,0.19,589896.3,2.77,True,Fixed,False,Fixture Report
+OBS_0660,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_020,Supramax,2024-07,Gypsum / Limestone,49226,0.36,457283.09,6.33,True,Fixed,False,Fixture Report
+OBS_0661,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_011,Supramax,2024-08,Thermal Coal,52785,0.34,478191.51,5.48,True,Fixed,False,Fixture Report
+OBS_0662,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_026,Panamax,2024-08,Thermal Coal,75422,0.38,576415.72,5.03,True,Fixed,False,Fixture Report
+OBS_0663,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_036,Capesize,2024-08,Coking Coal,172922,0.6,987514.02,6.21,True,Fixed,False,Fixture Report
+OBS_0664,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_035,Capesize,2024-08,Coking Coal,177995,0.57,1042243.09,5.6,True,Fixed,False,Fixture Report
+OBS_0665,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_040,Capesize,2024-08,Thermal Coal,173905,0.51,1007009.92,4.95,True,Fixed,False,Fixture Report
+OBS_0666,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_036,Capesize,2024-08,Iron Ore,168371,0.5,1033722.34,5.46,True,Fixed,False,Fixture Report
+OBS_0667,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_039,Capesize,2024-08,Iron Ore,184203,0.48,1067218.57,4.5,True,Fixed,False,Fixture Report
+OBS_0668,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_002,Handysize,2024-08,Rock Phosphate / Fertilizer,28850,0.41,356370.69,10.03,True,Fixed,False,Fixture Report
+OBS_0669,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_019,Supramax,2024-08,Thermal Coal,54535,0.33,509342.55,5.63,True,Fixed,False,Fixture Report
+OBS_0670,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_004,Handysize,2024-08,Thermal Coal,28034,0.29,330340.25,6.41,True,Fixed,False,Fixture Report
+OBS_0671,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_028,Panamax,2024-08,Coastal Thermal Coal,70948,0.19,593839.36,2.99,True,Fixed,False,Fixture Report
+OBS_0672,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_017,Supramax,2024-08,Gypsum / Limestone,56268,0.36,512150.89,6.13,True,Fixed,False,Fixture Report
+OBS_0673,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_019,Supramax,2024-09,Thermal Coal,56484,0.35,503291.58,5.66,True,Fixed,False,Fixture Report
+OBS_0674,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_028,Panamax,2024-09,Thermal Coal,71358,0.4,600650.14,6.13,True,Fixed,False,Fixture Report
+OBS_0675,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_037,Capesize,2024-09,Coking Coal,191372,0.57,984601.07,4.91,True,Fixed,False,Fixture Report
+OBS_0676,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_034,Capesize,2024-09,Coking Coal,180503,0.56,1051950.63,5.18,True,Fixed,False,Fixture Report
+OBS_0677,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_037,Capesize,2024-09,Thermal Coal,184800,0.5,1070281.25,4.67,True,Fixed,False,Fixture Report
+OBS_0678,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_040,Capesize,2024-09,Iron Ore,171994,0.49,1088809.86,5.0,True,Fixed,False,Fixture Report
+OBS_0679,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_037,Capesize,2024-09,Iron Ore,190331,0.49,1032322.93,4.31,True,Fixed,False,Fixture Report
+OBS_0680,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_005,Handysize,2024-09,Rock Phosphate / Fertilizer,27773,0.41,360131.89,9.87,True,Fixed,False,Fixture Report
+OBS_0681,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_013,Supramax,2024-09,Thermal Coal,54706,0.33,490199.8,5.41,True,Fixed,False,Fixture Report
+OBS_0682,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_005,Handysize,2024-09,Thermal Coal,28402,0.3,361807.81,7.08,True,Fixed,False,Fixture Report
+OBS_0683,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_026,Panamax,2024-09,Coastal Thermal Coal,74763,0.19,583118.23,2.52,True,Fixed,False,Fixture Report
+OBS_0684,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_014,Supramax,2024-09,Gypsum / Limestone,52239,0.36,532758.38,6.68,True,Fixed,False,Fixture Report
+OBS_0685,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_014,Supramax,2024-10,Thermal Coal,50457,0.36,489776.95,6.64,True,Fixed,False,Fixture Report
+OBS_0686,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_028,Panamax,2024-10,Thermal Coal,74266,0.4,606744.79,6.08,True,Fixed,False,Fixture Report
+OBS_0687,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_040,Capesize,2024-10,Coking Coal,176078,0.58,1082148.29,5.95,True,Fixed,False,Fixture Report
+OBS_0688,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_039,Capesize,2024-10,Coking Coal,184430,0.56,1131341.42,5.45,True,Fixed,False,Fixture Report
+OBS_0689,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_036,Capesize,2024-10,Thermal Coal,167179,0.52,1085077.93,6.02,True,Fixed,False,Fixture Report
+OBS_0690,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_040,Capesize,2024-10,Iron Ore,170579,0.49,1095233.59,5.18,True,Fixed,False,Fixture Report
+OBS_0691,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_040,Capesize,2024-10,Iron Ore,168406,0.49,1068994.97,5.23,True,Fixed,False,Fixture Report
+OBS_0692,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_004,Handysize,2024-10,Rock Phosphate / Fertilizer,29703,0.39,352417.37,8.7,True,Fixed,False,Fixture Report
+OBS_0693,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_022,Supramax,2024-10,Thermal Coal,57585,0.32,495095.75,4.85,True,Fixed,False,Fixture Report
+OBS_0694,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_003,Handysize,2024-10,Thermal Coal,30001,0.3,346874.68,7.25,True,Fixed,False,Fixture Report
+OBS_0695,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_027,Panamax,2024-10,Coastal Thermal Coal,78188,0.19,627398.79,2.8,True,Fixed,False,Fixture Report
+OBS_0696,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_022,Supramax,2024-10,Gypsum / Limestone,56038,0.35,479821.87,5.28,True,Fixed,False,Fixture Report
+OBS_0697,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_011,Supramax,2024-11,Thermal Coal,52517,0.34,515893.25,5.72,True,Fixed,False,Fixture Report
+OBS_0698,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_030,Panamax,2024-11,Thermal Coal,75642,0.39,693551.68,5.86,True,Fixed,False,Fixture Report
+OBS_0699,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_036,Capesize,2024-11,Coking Coal,167023,0.6,1027493.34,6.53,True,Fixed,False,Fixture Report
+OBS_0700,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_033,Capesize,2024-11,Coking Coal,175692,0.57,1085728.17,6.04,True,Fixed,False,Fixture Report
+OBS_0701,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_036,Capesize,2024-11,Thermal Coal,164168,0.52,1017183.5,5.76,True,Fixed,False,Fixture Report
+OBS_0702,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_033,Capesize,2024-11,Iron Ore,169162,0.49,1089494.45,5.4,True,Fixed,False,Fixture Report
+OBS_0703,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_035,Capesize,2024-11,Iron Ore,183642,0.49,1056214.75,4.73,True,Fixed,False,Fixture Report
+OBS_0704,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_008,Handysize,2024-11,Rock Phosphate / Fertilizer,28519,0.4,372823.45,9.33,True,Fixed,False,Fixture Report
+OBS_0705,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_014,Supramax,2024-11,Thermal Coal,51805,0.34,537416.67,6.27,True,Fixed,False,Fixture Report
+OBS_0706,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_001,Handysize,2024-11,Thermal Coal,33574,0.29,342884.07,5.68,True,Fixed,False,Fixture Report
+OBS_0707,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_031,Panamax,2024-11,Coastal Thermal Coal,75127,0.19,631756.78,2.67,True,Fixed,False,Fixture Report
+OBS_0708,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_014,Supramax,2024-11,Gypsum / Limestone,51625,0.36,541637.05,6.82,True,Fixed,False,Fixture Report
+OBS_0709,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_020,Supramax,2024-12,Thermal Coal,49088,0.35,505263.57,6.68,True,Fixed,False,Fixture Report
+OBS_0710,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_023,Panamax,2024-12,Thermal Coal,70462,0.38,665970.95,5.86,True,Fixed,False,Fixture Report
+OBS_0711,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_037,Capesize,2024-12,Coking Coal,183334,0.57,1092992.09,5.66,True,Fixed,False,Fixture Report
+OBS_0712,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_034,Capesize,2024-12,Coking Coal,171112,0.56,1045961.04,5.64,True,Fixed,False,Fixture Report
+OBS_0713,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_039,Capesize,2024-12,Thermal Coal,193374,0.5,1152995.61,4.77,True,Fixed,False,Fixture Report
+OBS_0714,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_035,Capesize,2024-12,Iron Ore,175917,0.49,1151251.8,5.33,True,Fixed,False,Fixture Report
+OBS_0715,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_038,Capesize,2024-12,Iron Ore,181382,0.5,1140257.96,5.2,True,Fixed,False,Fixture Report
+OBS_0716,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_003,Handysize,2024-12,Rock Phosphate / Fertilizer,29394,0.41,371689.85,10.66,True,Fixed,False,Fixture Report
+OBS_0717,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_013,Supramax,2024-12,Thermal Coal,53250,0.33,539861.83,6.1,True,Fixed,False,Fixture Report
+OBS_0718,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_007,Handysize,2024-12,Thermal Coal,33246,0.29,350070.2,5.66,True,Fixed,False,Fixture Report
+OBS_0719,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_025,Panamax,2024-12,Coastal Thermal Coal,73569,0.19,648560.99,2.85,True,Fixed,False,Fixture Report
+OBS_0720,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_018,Supramax,2024-12,Gypsum / Limestone,54817,0.35,540278.99,5.82,True,Fixed,False,Fixture Report
+OBS_0721,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_019,Supramax,2025-01,Thermal Coal,57300,0.35,504484.1,5.53,True,Fixed,False,Fixture Report
+OBS_0722,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_024,Panamax,2025-01,Thermal Coal,76733,0.38,662540.36,5.25,True,Fixed,False,Fixture Report
+OBS_0723,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_033,Capesize,2025-01,Coking Coal,178516,0.59,1067050.18,5.99,True,Fixed,False,Fixture Report
+OBS_0724,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_037,Capesize,2025-01,Coking Coal,187840,0.56,1155095.23,5.33,True,Fixed,False,Fixture Report
+OBS_0725,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_033,Capesize,2025-01,Thermal Coal,179376,0.51,1134465.87,5.39,True,Fixed,False,Fixture Report
+OBS_0726,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_040,Capesize,2025-01,Iron Ore,172111,0.49,1125754.04,5.05,True,Fixed,False,Fixture Report
+OBS_0727,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_036,Capesize,2025-01,Iron Ore,171765,0.51,1119461.69,5.59,True,Fixed,False,Fixture Report
+OBS_0728,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_001,Handysize,2025-01,Rock Phosphate / Fertilizer,33187,0.4,390852.54,8.33,True,Fixed,False,Fixture Report
+OBS_0729,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_011,Supramax,2025-01,Thermal Coal,54317,0.33,541561.2,5.35,True,Fixed,False,Fixture Report
+OBS_0730,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_008,Handysize,2025-01,Thermal Coal,27388,0.29,378719.59,7.12,True,Fixed,False,Fixture Report
+OBS_0731,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_024,Panamax,2025-01,Coastal Thermal Coal,75368,0.19,679148.35,2.7,True,Fixed,False,Fixture Report
+OBS_0732,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_022,Supramax,2025-01,Gypsum / Limestone,55562,0.35,540373.17,5.52,True,Fixed,False,Fixture Report
+OBS_0733,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_022,Supramax,2025-02,Thermal Coal,58845,0.34,496544.92,5.09,True,Fixed,False,Fixture Report
+OBS_0734,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_030,Panamax,2025-02,Thermal Coal,78799,0.39,639017.98,5.58,True,Fixed,False,Fixture Report
+OBS_0735,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_039,Capesize,2025-02,Coking Coal,191972,0.57,1083789.88,5.31,True,Fixed,False,Fixture Report
+OBS_0736,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_033,Capesize,2025-02,Coking Coal,175128,0.57,1078263.04,6.28,True,Fixed,False,Fixture Report
+OBS_0737,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_040,Capesize,2025-02,Thermal Coal,176346,0.51,1036209.6,5.13,True,Fixed,False,Fixture Report
+OBS_0738,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_033,Capesize,2025-02,Iron Ore,172429,0.49,1069349.93,5.45,True,Fixed,False,Fixture Report
+OBS_0739,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_036,Capesize,2025-02,Iron Ore,171104,0.51,1081261.41,5.78,True,Fixed,False,Fixture Report
+OBS_0740,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_007,Handysize,2025-02,Rock Phosphate / Fertilizer,34691,0.39,373828.91,7.65,True,Fixed,False,Fixture Report
+OBS_0741,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_017,Supramax,2025-02,Thermal Coal,56090,0.34,501080.81,5.85,True,Fixed,False,Fixture Report
+OBS_0742,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_002,Handysize,2025-02,Thermal Coal,28073,0.3,354397.0,7.82,True,Fixed,False,Fixture Report
+OBS_0743,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_024,Panamax,2025-02,Coastal Thermal Coal,75029,0.19,635881.42,2.73,True,Fixed,False,Fixture Report
+OBS_0744,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_017,Supramax,2025-02,Gypsum / Limestone,54594,0.36,537322.62,6.73,True,Fixed,False,Fixture Report
+OBS_0745,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_019,Supramax,2025-03,Thermal Coal,55214,0.35,520113.94,6.06,True,Fixed,False,Fixture Report
+OBS_0746,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_027,Panamax,2025-03,Thermal Coal,74603,0.39,648562.67,6.13,True,Fixed,False,Fixture Report
+OBS_0747,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_033,Capesize,2025-03,Coking Coal,171306,0.59,1011019.91,6.27,True,Fixed,False,Fixture Report
+OBS_0748,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_036,Capesize,2025-03,Coking Coal,168891,0.58,1087105.63,6.66,True,Fixed,False,Fixture Report
+OBS_0749,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_037,Capesize,2025-03,Thermal Coal,186965,0.5,1060927.93,4.7,True,Fixed,False,Fixture Report
+OBS_0750,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_038,Capesize,2025-03,Iron Ore,178374,0.49,1112056.03,5.09,True,Fixed,False,Fixture Report
+OBS_0751,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_040,Capesize,2025-03,Iron Ore,172354,0.49,1062933.96,5.09,True,Fixed,False,Fixture Report
+OBS_0752,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_009,Handysize,2025-03,Rock Phosphate / Fertilizer,34258,0.4,369564.1,8.31,True,Fixed,False,Fixture Report
+OBS_0753,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_019,Supramax,2025-03,Thermal Coal,55184,0.33,516982.04,5.73,True,Fixed,False,Fixture Report
+OBS_0754,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_004,Handysize,2025-03,Thermal Coal,28979,0.29,378260.26,6.81,True,Fixed,False,Fixture Report
+OBS_0755,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_023,Panamax,2025-03,Coastal Thermal Coal,71172,0.19,679513.12,2.9,True,Fixed,False,Fixture Report
+OBS_0756,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_018,Supramax,2025-03,Gypsum / Limestone,57021,0.35,537034.2,5.51,True,Fixed,False,Fixture Report
+OBS_0757,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_022,Supramax,2025-04,Thermal Coal,58684,0.34,496661.17,5.03,True,Fixed,False,Fixture Report
+OBS_0758,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_029,Panamax,2025-04,Thermal Coal,76495,0.38,632270.9,5.38,True,Fixed,False,Fixture Report
+OBS_0759,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_040,Capesize,2025-04,Coking Coal,173780,0.58,1096187.11,6.08,True,Fixed,False,Fixture Report
+OBS_0760,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_033,Capesize,2025-04,Coking Coal,171489,0.57,1099828.44,6.4,True,Fixed,False,Fixture Report
+OBS_0761,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_036,Capesize,2025-04,Thermal Coal,163012,0.52,1100757.67,6.23,True,Fixed,False,Fixture Report
+OBS_0762,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_037,Capesize,2025-04,Iron Ore,183758,0.48,996176.01,4.42,True,Fixed,False,Fixture Report
+OBS_0763,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_036,Capesize,2025-04,Iron Ore,167619,0.51,1015680.29,5.62,True,Fixed,False,Fixture Report
+OBS_0764,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_002,Handysize,2025-04,Rock Phosphate / Fertilizer,27604,0.41,373516.91,10.99,True,Fixed,False,Fixture Report
+OBS_0765,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_019,Supramax,2025-04,Thermal Coal,56701,0.33,529613.2,5.65,True,Fixed,False,Fixture Report
+OBS_0766,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_010,Handysize,2025-04,Thermal Coal,32337,0.29,387421.49,6.41,True,Fixed,False,Fixture Report
+OBS_0767,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_031,Panamax,2025-04,Coastal Thermal Coal,77323,0.19,653644.79,2.71,True,Fixed,False,Fixture Report
+OBS_0768,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_016,Supramax,2025-04,Gypsum / Limestone,51049,0.35,503217.91,6.17,True,Fixed,False,Fixture Report
+OBS_0769,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_021,Supramax,2025-05,Thermal Coal,50006,0.35,517316.26,6.81,True,Fixed,False,Fixture Report
+OBS_0770,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_025,Panamax,2025-05,Thermal Coal,72961,0.38,657031.12,5.77,True,Fixed,False,Fixture Report
+OBS_0771,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_038,Capesize,2025-05,Coking Coal,182193,0.59,982522.89,5.55,True,Fixed,False,Fixture Report
+OBS_0772,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_034,Capesize,2025-05,Coking Coal,177093,0.56,1001045.04,5.25,True,Fixed,False,Fixture Report
+OBS_0773,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_033,Capesize,2025-05,Thermal Coal,179582,0.51,1029131.94,5.27,True,Fixed,False,Fixture Report
+OBS_0774,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_035,Capesize,2025-05,Iron Ore,185309,0.49,1037383.04,4.7,True,Fixed,False,Fixture Report
+OBS_0775,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_034,Capesize,2025-05,Iron Ore,171133,0.48,1047644.17,4.86,True,Fixed,False,Fixture Report
+OBS_0776,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_005,Handysize,2025-05,Rock Phosphate / Fertilizer,28999,0.41,378879.38,9.99,True,Fixed,False,Fixture Report
+OBS_0777,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_021,Supramax,2025-05,Thermal Coal,52108,0.34,529655.4,6.28,True,Fixed,False,Fixture Report
+OBS_0778,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_002,Handysize,2025-05,Thermal Coal,27501,0.3,361380.88,7.92,True,Fixed,False,Fixture Report
+OBS_0779,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_032,Panamax,2025-05,Coastal Thermal Coal,70155,0.19,648059.39,2.88,True,Fixed,False,Fixture Report
+OBS_0780,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_022,Supramax,2025-05,Gypsum / Limestone,58259,0.35,530616.38,5.38,True,Fixed,False,Fixture Report
+OBS_0781,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_020,Supramax,2025-06,Thermal Coal,50113,0.35,491060.93,6.49,True,Fixed,False,Fixture Report
+OBS_0782,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_030,Panamax,2025-06,Thermal Coal,77829,0.39,617279.47,5.56,True,Fixed,False,Fixture Report
+OBS_0783,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_040,Capesize,2025-06,Coking Coal,175725,0.58,958249.67,5.66,True,Fixed,False,Fixture Report
+OBS_0784,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_040,Capesize,2025-06,Coking Coal,174003,0.56,920161.06,5.44,True,Fixed,False,Fixture Report
+OBS_0785,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_038,Capesize,2025-06,Thermal Coal,181205,0.51,961502.54,4.9,True,Fixed,False,Fixture Report
+OBS_0786,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_034,Capesize,2025-06,Iron Ore,177313,0.48,928572.38,4.39,True,Fixed,False,Fixture Report
+OBS_0787,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_035,Capesize,2025-06,Iron Ore,184499,0.49,1009203.33,4.79,True,Fixed,False,Fixture Report
+OBS_0788,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_001,Handysize,2025-06,Rock Phosphate / Fertilizer,33598,0.4,344857.41,8.17,True,Fixed,False,Fixture Report
+OBS_0789,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_016,Supramax,2025-06,Thermal Coal,49758,0.33,515710.77,6.06,True,Fixed,False,Fixture Report
+OBS_0790,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_003,Handysize,2025-06,Thermal Coal,29684,0.3,364471.97,7.68,True,Fixed,False,Fixture Report
+OBS_0791,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_029,Panamax,2025-06,Coastal Thermal Coal,76677,0.19,626118.26,2.7,True,Fixed,False,Fixture Report
+OBS_0792,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_011,Supramax,2025-06,Gypsum / Limestone,53988,0.35,506875.27,5.89,True,Fixed,False,Fixture Report
+OBS_0793,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_021,Supramax,2025-07,Thermal Coal,52663,0.35,471285.2,6.3,True,Fixed,False,Fixture Report
+OBS_0794,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_028,Panamax,2025-07,Thermal Coal,72982,0.4,620516.16,6.41,True,Fixed,False,Fixture Report
+OBS_0795,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_036,Capesize,2025-07,Coking Coal,166994,0.6,962172.66,6.63,True,Fixed,False,Fixture Report
+OBS_0796,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_033,Capesize,2025-07,Coking Coal,176539,0.57,992965.38,5.99,True,Fixed,False,Fixture Report
+OBS_0797,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_035,Capesize,2025-07,Thermal Coal,177365,0.51,893141.4,4.82,True,Fixed,False,Fixture Report
+OBS_0798,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_038,Capesize,2025-07,Iron Ore,182370,0.49,946508.3,4.63,True,Fixed,False,Fixture Report
+OBS_0799,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_037,Capesize,2025-07,Iron Ore,182831,0.49,890363.19,4.3,True,Fixed,False,Fixture Report
+OBS_0800,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_006,Handysize,2025-07,Rock Phosphate / Fertilizer,27516,0.4,372899.49,10.02,True,Fixed,False,Fixture Report
+OBS_0801,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_021,Supramax,2025-07,Thermal Coal,50042,0.34,482339.24,6.36,True,Fixed,False,Fixture Report
+OBS_0802,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_008,Handysize,2025-07,Thermal Coal,27407,0.29,349861.41,7.24,True,Fixed,False,Fixture Report
+OBS_0803,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_026,Panamax,2025-07,Coastal Thermal Coal,71609,0.19,629159.23,2.88,True,Fixed,False,Fixture Report
+OBS_0804,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_013,Supramax,2025-07,Gypsum / Limestone,51802,0.36,510545.31,6.62,True,Fixed,False,Fixture Report
+OBS_0805,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_022,Supramax,2025-08,Thermal Coal,56029,0.34,486139.01,5.43,True,Fixed,False,Fixture Report
+OBS_0806,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_031,Panamax,2025-08,Thermal Coal,78129,0.38,642319.85,5.58,True,Fixed,False,Fixture Report
+OBS_0807,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_038,Capesize,2025-08,Coking Coal,180151,0.59,924617.4,5.67,True,Fixed,False,Fixture Report
+OBS_0808,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_035,Capesize,2025-08,Coking Coal,179764,0.57,963738.22,5.65,True,Fixed,False,Fixture Report
+OBS_0809,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_040,Capesize,2025-08,Thermal Coal,177630,0.51,962871.4,5.02,True,Fixed,False,Fixture Report
+OBS_0810,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_039,Capesize,2025-08,Iron Ore,188186,0.48,970670.7,4.36,True,Fixed,False,Fixture Report
+OBS_0811,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_035,Capesize,2025-08,Iron Ore,181314,0.49,894673.06,4.68,True,Fixed,False,Fixture Report
+OBS_0812,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_007,Handysize,2025-08,Rock Phosphate / Fertilizer,34174,0.39,378034.29,8.04,True,Fixed,False,Fixture Report
+OBS_0813,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_017,Supramax,2025-08,Thermal Coal,53811,0.34,494847.29,6.25,True,Fixed,False,Fixture Report
+OBS_0814,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_001,Handysize,2025-08,Thermal Coal,33563,0.29,359895.88,6.29,True,Fixed,False,Fixture Report
+OBS_0815,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_029,Panamax,2025-08,Coastal Thermal Coal,75996,0.19,627139.98,2.79,True,Fixed,False,Fixture Report
+OBS_0816,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_012,Supramax,2025-08,Gypsum / Limestone,52184,0.36,474966.32,6.58,True,Fixed,False,Fixture Report
+OBS_0817,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_019,Supramax,2025-09,Thermal Coal,56205,0.35,502700.49,6.1,True,Fixed,False,Fixture Report
+OBS_0818,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_024,Panamax,2025-09,Thermal Coal,77979,0.38,584689.72,5.16,True,Fixed,False,Fixture Report
+OBS_0819,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_035,Capesize,2025-09,Coking Coal,180541,0.58,878038.89,5.48,True,Fixed,False,Fixture Report
+OBS_0820,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_035,Capesize,2025-09,Coking Coal,187495,0.57,963205.06,5.4,True,Fixed,False,Fixture Report
+OBS_0821,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_034,Capesize,2025-09,Thermal Coal,176782,0.5,953862.81,4.76,True,Fixed,False,Fixture Report
+OBS_0822,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_034,Capesize,2025-09,Iron Ore,176566,0.48,929844.34,4.5,True,Fixed,False,Fixture Report
+OBS_0823,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_039,Capesize,2025-09,Iron Ore,182518,0.48,944323.17,4.47,True,Fixed,False,Fixture Report
+OBS_0824,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_003,Handysize,2025-09,Rock Phosphate / Fertilizer,28772,0.41,357782.62,11.04,True,Fixed,False,Fixture Report
+OBS_0825,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_018,Supramax,2025-09,Thermal Coal,56909,0.32,497649.17,5.09,True,Fixed,False,Fixture Report
+OBS_0826,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_005,Handysize,2025-09,Thermal Coal,27335,0.3,336176.21,7.63,True,Fixed,False,Fixture Report
+OBS_0827,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_027,Panamax,2025-09,Coastal Thermal Coal,74728,0.19,593784.34,2.97,True,Fixed,False,Fixture Report
+OBS_0828,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_022,Supramax,2025-09,Gypsum / Limestone,55492,0.35,510944.53,5.74,True,Fixed,False,Fixture Report
+OBS_0829,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_016,Supramax,2025-10,Thermal Coal,51514,0.34,464954.06,6.02,True,Fixed,False,Fixture Report
+OBS_0830,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_028,Panamax,2025-10,Thermal Coal,71595,0.4,598342.04,6.61,True,Fixed,False,Fixture Report
+OBS_0831,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_037,Capesize,2025-10,Coking Coal,186739,0.57,897649.78,5.14,True,Fixed,False,Fixture Report
+OBS_0832,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_035,Capesize,2025-10,Coking Coal,186638,0.57,895637.53,5.27,True,Fixed,False,Fixture Report
+OBS_0833,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_037,Capesize,2025-10,Thermal Coal,191426,0.5,933747.69,4.47,True,Fixed,False,Fixture Report
+OBS_0834,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_040,Capesize,2025-10,Iron Ore,168905,0.49,942259.74,5.03,True,Fixed,False,Fixture Report
+OBS_0835,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_039,Capesize,2025-10,Iron Ore,182847,0.48,930094.82,4.46,True,Fixed,False,Fixture Report
+OBS_0836,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_009,Handysize,2025-10,Rock Phosphate / Fertilizer,35067,0.4,372206.61,8.61,True,Fixed,False,Fixture Report
+OBS_0837,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_022,Supramax,2025-10,Thermal Coal,58362,0.32,493540.81,5.02,True,Fixed,False,Fixture Report
+OBS_0838,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_008,Handysize,2025-10,Thermal Coal,28422,0.29,347711.52,7.18,True,Fixed,False,Fixture Report
+OBS_0839,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_028,Panamax,2025-10,Coastal Thermal Coal,70126,0.19,595146.58,3.26,True,Fixed,False,Fixture Report
+OBS_0840,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_020,Supramax,2025-10,Gypsum / Limestone,49526,0.36,487201.1,6.9,True,Fixed,False,Fixture Report
+OBS_0841,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_014,Supramax,2025-11,Thermal Coal,51010,0.36,496968.18,7.01,True,Fixed,False,Fixture Report
+OBS_0842,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_031,Panamax,2025-11,Thermal Coal,76953,0.38,612639.17,5.57,True,Fixed,False,Fixture Report
+OBS_0843,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_034,Capesize,2025-11,Coking Coal,172147,0.57,922039.38,5.55,True,Fixed,False,Fixture Report
+OBS_0844,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_039,Capesize,2025-11,Coking Coal,192601,0.56,882280.07,4.74,True,Fixed,False,Fixture Report
+OBS_0845,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_036,Capesize,2025-11,Thermal Coal,168922,0.52,911731.97,5.75,True,Fixed,False,Fixture Report
+OBS_0846,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_033,Capesize,2025-11,Iron Ore,170716,0.49,883924.1,5.18,True,Fixed,False,Fixture Report
+OBS_0847,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_040,Capesize,2025-11,Iron Ore,171017,0.49,846154.12,4.77,True,Fixed,False,Fixture Report
+OBS_0848,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_005,Handysize,2025-11,Rock Phosphate / Fertilizer,27938,0.41,331068.89,10.27,True,Fixed,False,Fixture Report
+OBS_0849,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_017,Supramax,2025-11,Thermal Coal,53281,0.34,449553.42,6.08,True,Fixed,False,Fixture Report
+OBS_0850,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_007,Handysize,2025-11,Thermal Coal,35055,0.29,351237.5,5.6,True,Fixed,False,Fixture Report
+OBS_0851,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_030,Panamax,2025-11,Coastal Thermal Coal,78743,0.19,585037.07,2.72,True,Fixed,False,Fixture Report
+OBS_0852,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_016,Supramax,2025-11,Gypsum / Limestone,50712,0.35,470482.5,6.31,True,Fixed,False,Fixture Report
+OBS_0853,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_020,Supramax,2025-12,Thermal Coal,50394,0.35,447744.25,6.47,True,Fixed,False,Fixture Report
+OBS_0854,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_028,Panamax,2025-12,Thermal Coal,72729,0.4,554388.47,6.37,True,Fixed,False,Fixture Report
+OBS_0855,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_033,Capesize,2025-12,Coking Coal,175720,0.59,873118.58,6.07,True,Fixed,False,Fixture Report
+OBS_0856,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_037,Capesize,2025-12,Coking Coal,181369,0.56,812514.45,4.97,True,Fixed,False,Fixture Report
+OBS_0857,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_038,Capesize,2025-12,Thermal Coal,183025,0.51,853522.69,4.77,True,Fixed,False,Fixture Report
+OBS_0858,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_039,Capesize,2025-12,Iron Ore,182143,0.48,908591.25,4.44,True,Fixed,False,Fixture Report
+OBS_0859,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_037,Capesize,2025-12,Iron Ore,180241,0.49,877732.87,4.53,True,Fixed,False,Fixture Report
+OBS_0860,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_001,Handysize,2025-12,Rock Phosphate / Fertilizer,35291,0.4,327473.53,7.99,True,Fixed,False,Fixture Report
+OBS_0861,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_015,Supramax,2025-12,Thermal Coal,50968,0.33,448630.84,5.9,True,Fixed,False,Fixture Report
+OBS_0862,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_007,Handysize,2025-12,Thermal Coal,33605,0.29,321869.91,5.67,True,Fixed,False,Fixture Report
+OBS_0863,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_026,Panamax,2025-12,Coastal Thermal Coal,74569,0.19,543799.42,2.66,True,Fixed,False,Fixture Report
+OBS_0864,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_018,Supramax,2025-12,Gypsum / Limestone,55926,0.35,497996.75,5.73,True,Fixed,False,Fixture Report
+OBS_0865,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_020,Supramax,2026-01,Thermal Coal,51616,0.35,464924.53,6.52,True,Fixed,False,Fixture Report
+OBS_0866,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_027,Panamax,2026-01,Thermal Coal,74939,0.39,606099.33,6.39,True,Fixed,False,Fixture Report
+OBS_0867,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_034,Capesize,2026-01,Coking Coal,176635,0.57,866548.93,5.37,True,Fixed,False,Fixture Report
+OBS_0868,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_033,Capesize,2026-01,Coking Coal,170220,0.57,914865.15,6.33,True,Fixed,False,Fixture Report
+OBS_0869,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_035,Capesize,2026-01,Thermal Coal,181133,0.51,842264.87,4.86,True,Fixed,False,Fixture Report
+OBS_0870,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_034,Capesize,2026-01,Iron Ore,174823,0.48,865294.8,4.54,True,Fixed,False,Fixture Report
+OBS_0871,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_038,Capesize,2026-01,Iron Ore,183567,0.5,898814.0,4.8,True,Fixed,False,Fixture Report
+OBS_0872,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_007,Handysize,2026-01,Rock Phosphate / Fertilizer,34629,0.39,311007.04,7.46,True,Fixed,False,Fixture Report
+OBS_0873,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_020,Supramax,2026-01,Thermal Coal,50318,0.33,457557.37,6.3,True,Fixed,False,Fixture Report
+OBS_0874,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_004,Handysize,2026-01,Thermal Coal,27935,0.29,320870.55,7.06,True,Fixed,False,Fixture Report
+OBS_0875,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_028,Panamax,2026-01,Coastal Thermal Coal,73285,0.19,571213.11,3.16,True,Fixed,False,Fixture Report
+OBS_0876,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_018,Supramax,2026-01,Gypsum / Limestone,56020,0.35,442911.54,5.45,True,Fixed,False,Fixture Report
+OBS_0877,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_013,Supramax,2026-02,Thermal Coal,51611,0.35,450086.2,6.38,True,Fixed,False,Fixture Report
+OBS_0878,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_029,Panamax,2026-02,Thermal Coal,80422,0.38,599098.64,5.27,True,Fixed,False,Fixture Report
+OBS_0879,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_034,Capesize,2026-02,Coking Coal,181556,0.57,881681.06,5.19,True,Fixed,False,Fixture Report
+OBS_0880,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_036,Capesize,2026-02,Coking Coal,163547,0.58,888049.6,6.62,True,Fixed,False,Fixture Report
+OBS_0881,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_039,Capesize,2026-02,Thermal Coal,186936,0.5,919454.75,4.53,True,Fixed,False,Fixture Report
+OBS_0882,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_035,Capesize,2026-02,Iron Ore,177009,0.49,881722.08,4.8,True,Fixed,False,Fixture Report
+OBS_0883,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_039,Capesize,2026-02,Iron Ore,183254,0.48,864391.33,4.33,True,Fixed,False,Fixture Report
+OBS_0884,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_008,Handysize,2026-02,Rock Phosphate / Fertilizer,28327,0.4,344974.6,9.92,True,Fixed,False,Fixture Report
+OBS_0885,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_016,Supramax,2026-02,Thermal Coal,50924,0.33,458629.96,5.81,True,Fixed,False,Fixture Report
+OBS_0886,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_003,Handysize,2026-02,Thermal Coal,29403,0.3,357803.11,8.08,True,Fixed,False,Fixture Report
+OBS_0887,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_032,Panamax,2026-02,Coastal Thermal Coal,71419,0.19,609769.32,2.89,True,Fixed,False,Fixture Report
+OBS_0888,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_013,Supramax,2026-02,Gypsum / Limestone,54275,0.36,454222.51,6.23,True,Fixed,False,Fixture Report
+OBS_0889,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_017,Supramax,2026-03,Thermal Coal,55630,0.35,456960.64,6.36,True,Fixed,False,Fixture Report
+OBS_0890,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_030,Panamax,2026-03,Thermal Coal,75236,0.39,572646.08,5.86,True,Fixed,False,Fixture Report
+OBS_0891,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_040,Capesize,2026-03,Coking Coal,167016,0.58,921952.27,6.17,True,Fixed,False,Fixture Report
+OBS_0892,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_040,Capesize,2026-03,Coking Coal,171715,0.56,894029.03,5.75,True,Fixed,False,Fixture Report
+OBS_0893,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_034,Capesize,2026-03,Thermal Coal,178140,0.5,921251.0,4.79,True,Fixed,False,Fixture Report
+OBS_0894,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_040,Capesize,2026-03,Iron Ore,173660,0.49,891573.21,4.88,True,Fixed,False,Fixture Report
+OBS_0895,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_035,Capesize,2026-03,Iron Ore,176641,0.49,881490.89,4.92,True,Fixed,False,Fixture Report
+OBS_0896,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_003,Handysize,2026-03,Rock Phosphate / Fertilizer,28815,0.41,349524.38,11.36,True,Fixed,False,Fixture Report
+OBS_0897,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_015,Supramax,2026-03,Thermal Coal,52214,0.33,470365.4,5.96,True,Fixed,False,Fixture Report
+OBS_0898,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_009,Handysize,2026-03,Thermal Coal,34295,0.29,322909.01,6.2,True,Fixed,False,Fixture Report
+OBS_0899,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_026,Panamax,2026-03,Coastal Thermal Coal,74683,0.19,521892.96,2.63,True,Fixed,False,Fixture Report
+OBS_0900,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_013,Supramax,2026-03,Gypsum / Limestone,51814,0.36,433452.5,6.47,True,Fixed,False,Fixture Report
+OBS_0901,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_013,Supramax,2026-04,Thermal Coal,54858,0.35,484473.34,6.51,True,Fixed,False,Fixture Report
+OBS_0902,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_023,Panamax,2026-04,Thermal Coal,70010,0.38,562856.87,5.85,True,Fixed,False,Fixture Report
+OBS_0903,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_036,Capesize,2026-04,Coking Coal,166145,0.6,979661.9,7.35,True,Fixed,False,Fixture Report
+OBS_0904,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_036,Capesize,2026-04,Coking Coal,169518,0.58,912576.59,6.78,True,Fixed,False,Fixture Report
+OBS_0905,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_036,Capesize,2026-04,Thermal Coal,164244,0.52,902698.02,6.24,True,Fixed,False,Fixture Report
+OBS_0906,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_034,Capesize,2026-04,Iron Ore,178151,0.48,978491.85,4.88,True,Fixed,False,Fixture Report
+OBS_0907,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_036,Capesize,2026-04,Iron Ore,165228,0.51,893883.47,5.98,True,Fixed,False,Fixture Report
+OBS_0908,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_009,Handysize,2026-04,Rock Phosphate / Fertilizer,34387,0.4,369035.02,9.3,True,Fixed,False,Fixture Report
+OBS_0909,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_020,Supramax,2026-04,Thermal Coal,49924,0.33,486266.04,6.73,True,Fixed,False,Fixture Report
+OBS_0910,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_006,Handysize,2026-04,Thermal Coal,28499,0.29,344467.32,7.47,True,Fixed,False,Fixture Report
+OBS_0911,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_029,Panamax,2026-04,Coastal Thermal Coal,76545,0.19,550730.73,2.75,True,Fixed,False,Fixture Report
+OBS_0912,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_019,Supramax,2026-04,Gypsum / Limestone,56026,0.36,486571.88,6.61,True,Fixed,False,Fixture Report
+OBS_0913,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_018,Supramax,2026-05,Thermal Coal,56411,0.34,477337.43,5.65,True,Fixed,False,Fixture Report
+OBS_0914,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_028,Panamax,2026-05,Thermal Coal,69945,0.4,607143.55,7.23,True,Fixed,False,Fixture Report
+OBS_0915,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_037,Capesize,2026-05,Coking Coal,189110,0.57,927048.71,5.46,True,Fixed,False,Fixture Report
+OBS_0916,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_039,Capesize,2026-05,Coking Coal,193293,0.56,962306.86,5.22,True,Fixed,False,Fixture Report
+OBS_0917,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_034,Capesize,2026-05,Thermal Coal,177265,0.5,978984.7,5.12,True,Fixed,False,Fixture Report
+OBS_0918,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_038,Capesize,2026-05,Iron Ore,183384,0.49,968535.4,5.07,True,Fixed,False,Fixture Report
+OBS_0919,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_033,Capesize,2026-05,Iron Ore,170191,0.5,932233.22,5.71,True,Fixed,False,Fixture Report
+OBS_0920,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_010,Handysize,2026-05,Rock Phosphate / Fertilizer,33640,0.4,327870.39,8.66,True,Fixed,False,Fixture Report
+OBS_0921,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_022,Supramax,2026-05,Thermal Coal,56538,0.32,471731.43,5.35,True,Fixed,False,Fixture Report
+OBS_0922,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_002,Handysize,2026-05,Thermal Coal,27883,0.3,343670.93,8.62,True,Fixed,False,Fixture Report
+OBS_0923,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_030,Panamax,2026-05,Coastal Thermal Coal,78631,0.19,556940.68,2.82,True,Fixed,False,Fixture Report
+OBS_0924,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_012,Supramax,2026-05,Gypsum / Limestone,50082,0.36,458341.75,7.21,True,Fixed,False,Fixture Report
+OBS_0925,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_015,Supramax,2026-06,Thermal Coal,53475,0.35,495838.64,6.51,True,Fixed,False,Fixture Report
+OBS_0926,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_026,Panamax,2026-06,Thermal Coal,72638,0.38,623706.05,6.17,True,Fixed,False,Fixture Report
+OBS_0927,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_037,Capesize,2026-06,Coking Coal,189860,0.57,992114.92,5.64,True,Fixed,False,Fixture Report
+OBS_0928,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_035,Capesize,2026-06,Coking Coal,186633,0.57,924188.91,5.68,True,Fixed,False,Fixture Report
+OBS_0929,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_037,Capesize,2026-06,Thermal Coal,188587,0.5,947997.63,4.84,True,Fixed,False,Fixture Report
+OBS_0930,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_037,Capesize,2026-06,Iron Ore,189628,0.48,978624.7,4.69,True,Fixed,False,Fixture Report
+OBS_0931,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_037,Capesize,2026-06,Iron Ore,188844,0.49,970357.45,4.74,True,Fixed,False,Fixture Report
+OBS_0932,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_010,Handysize,2026-06,Rock Phosphate / Fertilizer,32054,0.4,351177.21,9.39,True,Fixed,False,Fixture Report
+OBS_0933,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_017,Supramax,2026-06,Thermal Coal,56681,0.34,512889.33,6.46,True,Fixed,False,Fixture Report
+OBS_0934,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_006,Handysize,2026-06,Thermal Coal,27438,0.29,335240.7,7.66,True,Fixed,False,Fixture Report
+OBS_0935,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_032,Panamax,2026-06,Coastal Thermal Coal,68001,0.19,617218.46,3.18,True,Fixed,False,Fixture Report
+OBS_0936,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_021,Supramax,2026-06,Gypsum / Limestone,52103,0.36,470558.88,7.16,True,Fixed,False,Fixture Report
+OBS_0937,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_020,Supramax,2026-07,Thermal Coal,50611,0.35,522898.67,7.31,True,Fixed,False,Fixture Report
+OBS_0938,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_023,Panamax,2026-07,Thermal Coal,71741,0.38,599183.87,5.94,True,Fixed,False,Fixture Report
+OBS_0939,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_038,Capesize,2026-07,Coking Coal,180816,0.59,1022160.47,6.38,True,Fixed,False,Fixture Report
+OBS_0940,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_036,Capesize,2026-07,Coking Coal,165580,0.58,1029103.56,7.41,True,Fixed,False,Fixture Report
+OBS_0941,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_034,Capesize,2026-07,Thermal Coal,178476,0.5,1066881.62,5.37,True,Fixed,False,Fixture Report
+OBS_0942,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_038,Capesize,2026-07,Iron Ore,181349,0.49,1053132.87,5.4,True,Fixed,False,Fixture Report
+OBS_0943,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_040,Capesize,2026-07,Iron Ore,168367,0.49,1016425.39,5.66,True,Fixed,False,Fixture Report
+OBS_0944,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_007,Handysize,2026-07,Rock Phosphate / Fertilizer,32960,0.39,347585.53,8.58,True,Fixed,False,Fixture Report
+OBS_0945,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_017,Supramax,2026-07,Thermal Coal,55766,0.34,532007.88,6.73,True,Fixed,False,Fixture Report
+OBS_0946,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_010,Handysize,2026-07,Thermal Coal,31889,0.29,354245.37,7.0,True,Fixed,False,Fixture Report
+OBS_0947,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_023,Panamax,2026-07,Coastal Thermal Coal,72048,0.19,574989.11,2.9,True,Fixed,False,Fixture Report
+OBS_0948,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_022,Supramax,2026-07,Gypsum / Limestone,57211,0.35,516410.28,6.01,True,Fixed,False,Fixture Report
+OBS_0949,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_020,Supramax,2026-08,Thermal Coal,50970,0.35,485162.54,7.05,True,Fixed,False,Fixture Report
+OBS_0950,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_028,Panamax,2026-08,Thermal Coal,71402,0.4,639072.8,7.37,True,Fixed,False,Fixture Report
+OBS_0951,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_033,Capesize,2026-08,Coking Coal,174985,0.59,966728.09,6.79,True,Fixed,False,Fixture Report
+OBS_0952,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_040,Capesize,2026-08,Coking Coal,175041,0.56,970438.06,6.15,True,Fixed,False,Fixture Report
+OBS_0953,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_037,Capesize,2026-08,Thermal Coal,188476,0.5,991055.0,5.02,True,Fixed,False,Fixture Report
+OBS_0954,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_039,Capesize,2026-08,Iron Ore,193028,0.48,1011461.16,4.67,True,Fixed,False,Fixture Report
+OBS_0955,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_033,Capesize,2026-08,Iron Ore,172427,0.5,984445.45,5.88,True,Fixed,False,Fixture Report
+OBS_0956,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_003,Handysize,2026-08,Rock Phosphate / Fertilizer,29111,0.41,382025.42,12.32,True,Fixed,False,Fixture Report
+OBS_0957,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_015,Supramax,2026-08,Thermal Coal,53843,0.33,496066.85,6.22,True,Fixed,False,Fixture Report
+OBS_0958,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_008,Handysize,2026-08,Thermal Coal,27807,0.29,375245.45,8.21,True,Fixed,False,Fixture Report
+OBS_0959,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_026,Panamax,2026-08,Coastal Thermal Coal,75491,0.19,624926.38,2.99,True,Fixed,False,Fixture Report
+OBS_0960,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_016,Supramax,2026-08,Gypsum / Limestone,50976,0.35,498747.03,6.93,True,Fixed,False,Fixture Report
+OBS_0961,RTE_01,"Taboneo (South Kalimantan, Indonesia)",INPRT,Paradip Port,INPRT_CQ1,2160,VSL_011,Supramax,2026-09,Thermal Coal,54338,0.34,506574.76,6.26,True,Fixed,False,Fixture Report
+OBS_0962,RTE_02,"Samarinda (East Kalimantan, Indonesia)",INKRI,Krishnapatnam Port,INKRI_CB1,2580,VSL_023,Panamax,2026-09,Thermal Coal,71225,0.38,629659.69,6.14,True,Fixed,False,Fixture Report
+OBS_0963,RTE_03,"Hay Point (Queensland, Australia)",INVTZ,Visakhapatnam Port,INVTZ_OHOB,4680,VSL_038,Capesize,2026-09,Coking Coal,183181,0.59,1042394.04,6.35,True,Fixed,False,Fixture Report
+OBS_0964,RTE_04,"Gladstone (Queensland, Australia)",INDMA,Dhamra Port,INDMA_BB1,4520,VSL_040,Capesize,2026-09,Coking Coal,173122,0.56,1093417.74,6.57,True,Fixed,False,Fixture Report
+OBS_0965,RTE_05,"Richards Bay (KwaZulu-Natal, South Africa)",INKRI,Krishnapatnam Port,INKRI_CB1,3910,VSL_040,Capesize,2026-09,Thermal Coal,173723,0.51,1038693.72,5.71,True,Fixed,False,Fixture Report
+OBS_0966,RTE_06,Port Hedland (Western Australia),INVTZ,Visakhapatnam Port,INVTZ_OHOB,3690,VSL_033,Capesize,2026-09,Iron Ore,175274,0.49,1104005.86,6.0,True,Fixed,False,Fixture Report
+OBS_0967,RTE_07,Dampier (Western Australia),INDMA,Dhamra Port,INDMA_BB1,3750,VSL_039,Capesize,2026-09,Iron Ore,188221,0.48,1109529.7,5.07,True,Fixed,False,Fixture Report
+OBS_0968,RTE_08,Aqaba (Jordan) / Red Sea,INHAL,Haldia Dock Complex,INHAL_HB4,2640,VSL_007,Handysize,2026-09,Rock Phosphate / Fertilizer,34425,0.39,383514.64,8.61,True,Fixed,False,Fixture Report
+OBS_0969,RTE_09,Muara Berau (Indonesia),INENR,Kamarajar Port (Ennore),INENR_CB1,1980,VSL_019,Supramax,2026-09,Thermal Coal,54788,0.33,559700.03,6.74,True,Fixed,False,Fixture Report
+OBS_0970,RTE_10,"Tarahan (Sumatra, Indonesia)",INTUT,V.O. Chidambaranar Port (Tuticorin),INTUT_NCB1,1590,VSL_005,Handysize,2026-09,Thermal Coal,28175,0.3,351196.78,8.18,True,Fixed,False,Fixture Report
+OBS_0971,RTE_11,Paradip Port (Coastal India),INENR,Kamarajar Port (Ennore),INENR_CB1,595,VSL_025,Panamax,2026-09,Coastal Thermal Coal,72371,0.19,628025.36,3.12,True,Fixed,False,Fixture Report
+OBS_0972,RTE_12,Salalah (Oman),INVTZ,Visakhapatnam Port,INVTZ_EQ8,2240,VSL_017,Supramax,2026-09,Gypsum / Limestone,55973,0.36,552113.03,7.36,True,Fixed,False,Fixture Report
