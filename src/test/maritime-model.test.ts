@@ -1,0 +1,10 @@
+import {describe,it,expect} from 'vitest';
+import {DEFAULTS,LIMITS,PORTS,MARKET,payloadFor,validateForm} from '@/components/maritime/model';
+describe('Voyage contract',()=>{
+ it.each(Object.entries({origin_port_id:'PRT_001',destination_port_id:'PRT_014',route_id:'RTE_001',distance_nm:10000,type_of_cargo:'Coal',quantity_mt:60000,vessel_type:'Panamax',deadweight_tonnage_dwt:82406,speed_knots:14,idle_cost_per_day:1000,reposition_cost_per_distance:1.5,expected_arrival_hours:2400,fuel_price_usd_per_tonne:682.18}))('defaults %s to %s',(key,value)=>{expect(DEFAULTS[key as keyof typeof DEFAULTS]).toBe(value)});
+ it('normalizes departure to October 1 and cargo to kilograms',()=>{const payload=payloadFor(DEFAULTS);expect(payload.current_month).toBe('2026-10-01');expect(payload.quantity_kg).toBe(60000000)});
+ it('preserves edited port IDs and values in the payload',()=>{const p=payloadFor({...DEFAULTS,destination_port_id:'PRT_015',quantity_mt:35000});expect(p.destination_port_id).toBe('PRT_015');expect(p.quantity_kg).toBe(35000000)});
+ it.each([['distance_nm',100,20000,100],['quantity_mt',1000,180000,1000],['deadweight_tonnage_dwt',20000,200000,1],['speed_knots',10,20,.1],['expected_arrival_hours',24,30000,24],['idle_cost_per_day',500,10000,100],['reposition_cost_per_distance',.5,5,.05]] as const)('enforces %s bounds',(key,min,max,step)=>{expect(LIMITS[key]).toEqual([min,max,step]);expect(validateForm({...DEFAULTS,[key]:min})).toBe(true);expect(validateForm({...DEFAULTS,[key]:max})).toBe(true);expect(validateForm({...DEFAULTS,[key]:min-step})).toBe(false);expect(validateForm({...DEFAULTS,[key]:max+step})).toBe(false)});
+ it('maps all twenty ports to real IDs',()=>{expect(PORTS).toHaveLength(20);expect(PORTS[0]).toMatchObject({id:'PRT_001',name:'Newcastle'});expect(PORTS[13]).toMatchObject({id:'PRT_014',name:'Paradip'});expect(PORTS[19]).toMatchObject({id:'PRT_020',name:'Krishnapatnam'})});
+ it.each(MARKET)('keeps %s default within its requested range',(key,_label,min,max)=>{expect(DEFAULTS[key]).toBeGreaterThanOrEqual(min);expect(DEFAULTS[key]).toBeLessThanOrEqual(max)});
+});

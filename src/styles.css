@@ -1,0 +1,194 @@
+@import "tailwindcss" source(none);
+@import "tw-animate-css";
+@source "../src";
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 18px;
+  --radius-2xl: 22px;
+  --radius-3xl: 28px;
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-display: "Plus Jakarta Sans", "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: "JetBrains Mono", "SF Mono", monospace;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --color-ocean-dark: #070B12;
+  --color-ocean-base: #0B1220;
+  --color-ocean-surface: #101B2E;
+  --color-ocean-card: #142239;
+  --color-ocean-border: #1E314F;
+  --color-ocean-highlight: #2A436A;
+
+  --color-cyan-glow: #00E5FF;
+  --color-cyan-vibrant: #06B6D4;
+  --color-cyan-deep: #0284C7;
+  --color-gold-brass: #F59E0B;
+  --color-gold-deep: #D97706;
+  --color-emerald-safe: #10B981;
+  --color-slate-muted: #94A3B8;
+}
+
+:root {
+  color-scheme: dark;
+  --background: #080E18;
+  --foreground: #F8FAFC;
+  --card: #0F1A2C;
+  --card-foreground: #F8FAFC;
+  --popover: #111D31;
+  --popover-foreground: #F8FAFC;
+  --primary: #06B6D4;
+  --primary-foreground: #080E18;
+  --secondary: #17263E;
+  --secondary-foreground: #E2E8F0;
+  --muted: #1A2B46;
+  --muted-foreground: #8FA2BD;
+  --accent: #1D3252;
+  --accent-foreground: #F8FAFC;
+  --border: #1F3353;
+  --input: #15243B;
+  --ring: #00E5FF;
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+  body {
+    margin: 0;
+    background-color: var(--background);
+    background-image: 
+      radial-gradient(ellipse 80% 50% at 50% -20%, rgba(6, 182, 212, 0.15), transparent),
+      radial-gradient(ellipse 60% 40% at 90% 80%, rgba(2, 132, 199, 0.08), transparent),
+      linear-gradient(180deg, #070B12 0%, #0A1220 50%, #080E18 100%);
+    color: var(--foreground);
+    font-family: var(--font-sans);
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    letter-spacing: -0.02em;
+  }
+  input[type=month]::-webkit-calendar-picker-indicator {
+    cursor: pointer;
+    filter: invert(0.8) sepia(100%) saturate(300%) hue-rotate(150deg);
+  }
+}
+
+@utility num {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.01em;
+}
+
+@utility card-executive {
+  background: linear-gradient(165deg, rgba(17, 28, 48, 0.85) 0%, rgba(13, 21, 36, 0.95) 100%);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(56, 189, 248, 0.16);
+  border-radius: 18px;
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.6), 0 0 1px 1px rgba(255, 255, 255, 0.03) inset;
+  transition: border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+@utility card-executive:hover {
+  border-color: rgba(6, 182, 212, 0.35);
+  box-shadow: 0 14px 38px -10px rgba(0, 0, 0, 0.7), 0 0 20px -3px rgba(6, 182, 212, 0.1);
+}
+
+@utility btn-executive {
+  border-radius: 12px;
+  font-weight: 700;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: 0 4px 14px -2px rgba(0, 0, 0, 0.4);
+}
+@utility btn-executive:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.08);
+  box-shadow: 0 6px 20px -3px rgba(6, 182, 212, 0.35);
+}
+@utility btn-executive:active {
+  transform: translateY(1px);
+}
+
+@keyframes waveSlow {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+@keyframes vesselGlide {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(-3px) rotate(1.2deg); }
+}
+
+@keyframes pulseGlow {
+  0%, 100% { opacity: 0.35; transform: scale(0.98); }
+  50% { opacity: 0.75; transform: scale(1.02); }
+}
+
+@keyframes radarSweep {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes sonarPing {
+  0% { transform: scale(0.2); opacity: 0.9; }
+  100% { transform: scale(2.8); opacity: 0; }
+}
+
+@keyframes floatGentle {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+
+@utility animate-wave-slow {
+  animation: waveSlow 28s linear infinite;
+}
+
+@utility animate-vessel-glide {
+  animation: vesselGlide 3.5s ease-in-out infinite;
+}
+
+@utility animate-radar-sweep {
+  animation: radarSweep 6s linear infinite;
+  transform-origin: center;
+}
+
+@utility animate-sonar-ping {
+  animation: sonarPing 3s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+}
+
+@utility animate-float-gentle {
+  animation: floatGentle 4s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+@media print {
+  body { background: white; color: black; }
+  .ocean-telemetry, header, .workbench-form, .controls-print-hide { display: none !important; }
+}
